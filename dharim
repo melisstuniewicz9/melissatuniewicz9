@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/orlando_entry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/orlando_v2_cwrc-writer.css"?><ENTRY xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ID="SixLetterCode" PERSON="BRWWRITER">
+    <ORLANDOHEADER>
+        <FILEDESC>
+            <TITLESTMT>
+                <DOCTITLE>[Imtiaz Dharker]</DOCTITLE>
+            </TITLESTMT>
+            <PUBLICATIONSTMT>
+                <AUTHORITY>Orlando Project</AUTHORITY>
+            </PUBLICATIONSTMT>
+            <SOURCEDESC>Created from original research by members of the Orlando Project</SOURCEDESC>
+        </FILEDESC>
+        <XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></XENODATA><XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></XENODATA><XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></XENODATA><XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></XENODATA><XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></XENODATA><XENODATA>
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> </rdf:RDF>
+        </XENODATA>
+    </ORLANDOHEADER>
+    <DIV0>
+        <STANDARD>Dharker, Imtiaz</STANDARD>
+        <AUTHORSUMMARY>
+            <P>ID is a Pakistani-Scottish poet, artist, and filmmaker, and a significant voice in
+                the representation of the South Asian diaspora in poetry. <EXTENTOFOEUVRE>She has
+                    published seven collections of <TGENRE GENRENAME="POETRY">poetry</TGENRE>, each
+                    featuring her own illustrations throughout the pages.</EXTENTOFOEUVRE> Her work
+                often explores her liminal or outsider status and reflects on socio-political
+                subjects such as displacement and migration, gender, Islamophobia, religious
+                fundamentalism, and <QUOTE DIRECT="Y">the uncertainty, loneliness, and anonymity of
+                    exile</QUOTE>.<BIBCITS><BIBCIT PLACEHOLDER="Das 61" REF="https://commons.cwrc.ca/orlando:bibliographic-84-stripping_veiling_and_inscribing_devising_the_body_in_the_works_of_sylvia_plath_imtiaz_dharker_shirin_neshat_and_randa_abdelfattah">61</BIBCIT></BIBCITS>Her style is simple and sensuous, her feeling strongly
+                rooted in the present moment.</P>
+        </AUTHORSUMMARY>
+        <BIOGRAPHY>
+            <HEADING>Biography</HEADING>
+            <DIV1>
+                <RESEARCHNOTE>KLH to MT: Please add Placeholder and REF attribute values to the
+                    TEXTSCOPE taga in the Writing section, then read through once more to check for
+                    an add bibl sources' info in Zotero if needed and add REF attrib values in
+                    bibcits as needed; please also check content of NAME and ORGNAME tags and add
+                    entity info to running spreadsheet if any last ones are needed. Many
+                    thanks!</RESEARCHNOTE>
+                <PERSONNAME>
+                    <DIV2>
+                        <DATASTRUCT>
+                            <DATAITEM> <BIRTHNAME> <GIVEN>Imtiaz</GIVEN> <SURNAME>[Shair]</SURNAME> </BIRTHNAME> </DATAITEM>
+                            <DATAITEM> <MARRIED>Dharker</MARRIED> </DATAITEM>
+                        </DATASTRUCT>
+                    </DIV2>
+                </PERSONNAME>
+            </DIV1>
+            <DIV1>
+                <HEADING>Birth and Family</HEADING>
+                <BIRTH>
+                    <DIV2>
+                        <CHRONSTRUCT RESP="SYS" RELEVANCE="SELECTIVE" CHRONCOLUMN="WRITINGCLIMATE"> <DATE>31 January 1954</DATE> <CHRONPROSE>ID was born in <PLACE><SETTLEMENT>Lahore</SETTLEMENT>,
+                            <GEOG>Pakistan</GEOG></PLACE>.</CHRONPROSE> <BIBCITS> <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' GCSE Poetry Live" REF=" https://commons.cwrc.ca/orlando:77aff166-ad3d-4902-a6e6-51c137acc5c8
+"></BIBCIT> </BIBCITS> </CHRONSTRUCT><SHORTPROSE><P>She has one older sister.</P></SHORTPROSE>
+                        </DIV2>
+                </BIRTH>
+            </DIV1><DIV1><LOCATION RELATIONTO="MIGRATED"><DIV2><SHORTPROSE><P>ID’s family emigrated from <PLACE><GEOG>Pakistan</GEOG></PLACE> to Scotland when she was six
+                                months old, and first settled in a house at the edge of
+                                        <PLACE><PLACENAME>The Gorbals</PLACENAME> in
+                                        <SETTLEMENT>Glasgow</SETTLEMENT><GEOG REG="Scotland"
+                                    /></PLACE>.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC The Conversation" REF=" https://commons.cwrc.ca/orlando:3a06ad52-0473-4deb-9037-b8f64ccbd677 
+"/>
+                                </BIBCITS> As her father’s business became more successful, her
+                                family moved to <PLACE><PLACENAME>Pollokshields</PLACENAME>, a more
+                                    affluent suburb of <SETTLEMENT>Glasgow</SETTLEMENT><GEOG
+                                        REG="Scotland"/></PLACE>, into <QUOTE DIRECT="Y">a lovely
+                                    house with a beautiful garden.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker,' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746  
+"
+                                    />
+                                </BIBCITS></P></SHORTPROSE></DIV2></LOCATION></DIV1>
+            <DIV1>
+                <CULTURALFORMATION>
+                    <RELIGION><DIV2><SHORTPROSE>
+                        <P>ID has described growing up in a <DENOMINATION REG="Islamic">Muslim
+                                        Calvinist</DENOMINATION> household, loving but conservative
+                                    and sheltered.<BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Dharker 2" REF="https://commons.cwrc.ca/orlando:bibliographic-72-luck_is_the_hook">2</BIBCIT>
+                                    </BIBCITS>
+                                    <SCHOLARNOTE>
+                                        <P>She has used this phrase more than once to convey the
+                                            strictness of her family's Islamic observance to an
+                                            audience more familiar with Christian sects.</P>
+                                    </SCHOLARNOTE> The outside world was <QUOTE DIRECT="Y">a
+                                        no-man’s land</QUOTE> except for school, which was a <QUOTE
+                                        DIRECT="Y">safe haven</QUOTE>.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="Olney, 'An interview with Imtiaz Dharker'" REF="https://commons.cwrc.ca/orlando:c32c443b-deee-45b6-96b8-99577232ef3b"
+                                        />
+                                    </BIBCITS> As a teenager, ID was given the educational freedom
+                                    to write and experiment with art, and there was enough money for
+                                    her to enrol in dancing classes. However as a girl growing up in
+                                    a conservative Muslim household, she was not permitted to go out
+                                    dancing or partake in the 1960s club scene in
+                                            <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
+                                            REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE>.
+                                        <QUOTE DIRECT="Y">A lot of my time in Glasgow was spent at
+                                        my window looking out over the city and the shining lights
+                                        and feeling as if all of life was happening somewhere else,
+                                        somewhere out there, somewhere where I was not.</QUOTE>
+                                    <BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker,' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746  
+"
+                                        />
+                                    </BIBCITS> Although her household was conservative, she was
+                                    never required to be in <FOREIGN>purdah</FOREIGN>, or veiled,
+                                    herself. It was on a trip to
+                                        <PLACE><GEOG>Pakistan</GEOG></PLACE> as a teenager that she
+                                    first realized that as a Muslim female, she was there <QUOTE
+                                        DIRECT="Y">as someone's daughter, or someone's sister, and
+                                        later she would be there as someone's wife.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Haider 247" REF="https://commons.cwrc.ca/orlando:fa91a800-5e75-4445-a2fc-f01f6695e80d">247</BIBCIT>
+                                    </BIBCITS>
+                                </P>
+                    </SHORTPROSE></DIV2></RELIGION><CLASSISSUE><DIV2><SHORTPROSE><P>As her father's business became more successful during her youth, the family's middle-class status shifted upward,  
+                                    from <CLASS SOCIALRANK="LOWER-MIDDLECLASS">marginal</CLASS> to
+                                        <CLASS SOCIALRANK="MANAGERIAL">well-established</CLASS>,
+                                    marked by their change in address.</P></SHORTPROSE></DIV2></CLASSISSUE>
+                        <RACEANDETHNICITY><DIV2><SHORTPROSE>
+                            <P>Reflecting on her South Asian heritage and upbringing in
+                                            <PLACE><GEOG>Scotland</GEOG></PLACE>, ID has said,
+                                        <QUOTE DIRECT="Y">there was one country inside the house and
+                                        one outside, not necessarily in a bad way. I could slip from
+                                        one to the other, the way children slip from one language to
+                                        another if they are bilingual.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Shivdasani 129" REF="https://commons.cwrc.ca/orlando:bibliographic--just_between_us_women_speak_about_their_writing">129</BIBCIT>
+                                    </BIBCITS>
+                                    <QUOTE DIRECT="Y">Scotland is in my blood. Like my father did, I
+                                        love the sound and feel of the language on my tongue. All
+                                        the years in <PLACE><SETTLEMENT REG="Bombay"
+                                                CURRENT="Mumbai">Bombay</SETTLEMENT><GEOG
+                                                REG="India"/></PLACE> stole my accent but I get it
+                                        back if I spend a few days in Scotland.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman" REF=" https://commons.cwrc.ca/orlando:7d1c3d64-74d8-4f7d-9760-1ec1edb04ce1"/>
+                                    </BIBCITS> Yet, visiting <PLACE><GEOG>Pakistan</GEOG></PLACE>
+                                    for the first time at the age of thirteen, Imtiaz found it to be
+                                    a landscape where she was completely at home.<BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Shamsie 301" REF="https://commons.cwrc.ca/orlando:bibliographic-89-the_changing_world_of_contemporary_south_asian_poetry_in_english_a_collection_of_critical_essays">301</BIBCIT>
+                                    </BIBCITS> The author biography that appears in her poetry
+                                    volumes characterizes hers as <QUOTE DIRECT="Y">a life of
+                                        transitions: childhood, exile, journeying, home,
+                                        displacement, religious strife and terror, and latterly,
+                                        grief.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Dharker 2" REF="https://commons.cwrc.ca/orlando:bibliographic-72-luck_is_the_hook">2</BIBCIT>
+                                    </BIBCITS> ID has reflected that <QUOTE DIRECT="Y">I knew I
+                                        didn’t belong in one place but I began to think strongly
+                                        that this wasn’t a bad thing. . . . My real culture and
+                                        country is movement, transition, crossing over.</QUOTE>
+                                    <BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Shamsie 301" REF="https://commons.cwrc.ca/orlando:bibliographic-89-the_changing_world_of_contemporary_south_asian_poetry_in_english_a_collection_of_critical_essays">301</BIBCIT>
+                                    </BIBCITS> ID’s parents embraced life in
+                                            <PLACE><GEOG>Scotland</GEOG></PLACE>, especially her
+                                    father, who enjoyed being the centre of their social circle. </P>
+                        </SHORTPROSE>
+                    </DIV2></RACEANDETHNICITY>
+                    </CULTURALFORMATION>
+            </DIV1>
+            <DIV1><HEADING>Family Relations</HEADING>
+                <FAMILY>
+                    <MEMBER RELATION="MOTHER">
+                        <DIV2>
+                            <HEADING>Mother</HEADING>
+                            <SHORTPROSE>
+                                <P>Little is known about the background of ID's mother. Her maiden
+                                    name was Mobarak and she was a
+                                        <SIGNIFICANTACTIVITY>homemaker</SIGNIFICANTACTIVITY>, an
+                                    adept <SIGNIFICANTACTIVITY>seamstress</SIGNIFICANTACTIVITY> and
+                                    an excellent <SIGNIFICANTACTIVITY>cook</SIGNIFICANTACTIVITY>.
+                                    She learned enough English to communicate effectively, but was
+                                    always more comfortable speaking Punjabi. Family tradition
+                                    recalled her making a smocked dress for Imtiaz's sister to wear
+                                    when <NAME STANDARD="Elizabeth II, Queen" REF="https://commons.cwrc.ca/orlando:58938834-f207-4ae5-9e47-d9e7efe34458
+                                        ">Queen Elizabeth
+                                        II</NAME> visited <PLACE><SETTLEMENT>
+                                            Glasgow</SETTLEMENT><REGION REG="Lanarkshire"/><GEOG
+                                            REG="Scotland"/></PLACE> after her coronation.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                        />
+                                    </BIBCITS>. Her feasts were, according to ID, <QUOTE DIRECT="Y"
+                                        >legend</QUOTE>.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                        />
+                                    </BIBCITS></P><P>After ID's elopement around 1971, she never saw her mother again.</P>
+                            </SHORTPROSE>
+                        </DIV2>
+                    </MEMBER>
+                    <MEMBER RELATION="FATHER">
+                        <DIV2>
+                            <HEADING>Father</HEADING>
+                            <SHORTPROSE>
+                                <P><NAME STANDARD="Choudhury Shair" REF="https://commons.cwrc.ca/orlando:person-104-chaudhri_sher_mobarik">Choudhury Shair</NAME> was a self-made
+                                        <JOB>businessman</JOB> who arrived in London to study, but
+                                    changed direction after visiting friends in
+                                            <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
+                                            REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE> who
+                                    were door-to-door salesmen of <QUOTE DIRECT="Y">pinnies and
+                                        nylons</QUOTE>.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"/>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF="https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                        />
+                                    </BIBCITS> He found that he loved Scotland, and decided to stay.
+                                    Soon he was importing goods from factories he had set up in
+                                            <PLACE><REGION>Punjab</REGION><GEOG CURRENT="India"
+                                        /></PLACE>.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker'. BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                        />
+                                    </BIBCITS> When ID was still a baby, he purchased one of the
+                                    first televisions among their neighbours, and was delighted to
+                                    be able to invite everyone over to watch the 1953 coronation. <BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                        />
+                                    </BIBCITS> ID has stated that her father “<QUOTE DIRECT="Y">was
+                                        always very pleased with fitting in with local habits and
+                                        customs but he was especially happy and proud to be able to
+                                        speak like a proper ‘Wegian.</QUOTE>”<BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Persaud, 'Review: Luck is the Hook.'" REF="https://commons.cwrc.ca/orlando:bibliographic-96-review_luck_is_the_hook_by_imtiaz_dharker_and_monsoon_on_the_fingers_of_god_by_sasenarine_persaud"/>
+                                    </BIBCITS> When she eloped with a Hindu Indian man, her family disowned her. After she had not seen her
+                                    father for ten years, her sister let her know he would be flying
+                                    into <PLACE><PLACENAME>Heathrow Airport</PLACENAME><SETTLEMENT
+                                            REG="London"/><REGION REG="Middlesex"/><GEOG
+                                            REG="England"/></PLACE>. ID went to the arrivals gate
+                                    and approached him. <QUOTE DIRECT="Y">I saw him coming though
+                                        and went up to him. I said hello and he said hello and kept
+                                        walking as if I were an acquaintance. I said <QUOTE
+                                            DIRECT="N">I’m Imtiaz, I’m your daughter,</QUOTE> and he
+                                        didn’t recognize me. I had green hair at that point, with
+                                        spikes. He carried on walking though very politely. He said,
+                                            <QUOTE DIRECT="N">I‘m sorry, I didn’t realize,</QUOTE>
+                                        gave me a hug, and went on into the domestic
+                                        transit.</QUOTE><BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                        />
+                                    </BIBCITS></P><P>Choudhury Shair died
+                                        at ninety-nine years old.<BIBCITS>
+                                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"></BIBCIT></BIBCITS></P>
+                            </SHORTPROSE>
+                        </DIV2>
+                    </MEMBER>
+                    <MEMBER RELATION="SISTER">
+                        <DIV2>
+                            <HEADING>Sister</HEADING>
+                            <SHORTPROSE>
+                                <P>ID has at least one sister, Shenaz, who is older than her. She
+                                    describes from family tradition (she was too young to remember
+                                    it) her mother wrapping Shenaz's hair in rags so that she would
+                                    have ringlets to go with her hand-smocked dress for <NAME
+                                        STANDARD="Elizabeth II, Queen" REF="https://commons.cwrc.ca/orlando:58938834-f207-4ae5-9e47-d9e7efe34458
+                                        ">Queen Elizabeth II</NAME>'s
+                                    coronation visit to
+                                            <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
+                                            REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE>.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                        />
+                                    </BIBCITS></P>
+                            </SHORTPROSE>
+                        </DIV2>
+                    </MEMBER>
+                </FAMILY>
+            </DIV1>
+            <DIV1>
+                <HEADING>Education</HEADING>
+                <EDUCATION MODE="INSTITUTIONAL">
+                    <DIV2>
+                        <SHORTPROSE>
+                            <P>ID, then <NAME STANDARD="Dharker, Imtiaz" REF="https://commons.cwrc.ca/orlando:4c05a419-20dc-4f9f-a43a-9963114fd195  
+                                ">Imtiaz Shair</NAME>,
+                                attended <SCHOOL INSTITUTION="PRIVATE" STUDENTBODY="SINGLESEX"
+                                    ><ORGNAME STANDARD="Hutchesons' Grammar School" REF="https://commons.cwrc.ca/orlando:organization-47-hutchesons_grammar_school">Hutchesons' Grammar School</ORGNAME></SCHOOL>, an
+                                upmarket private school in
+                                        <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
+                                        REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE> where she
+                                was the first South Asian girl to attend.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="BBC Desert Island Discs, 'Imtiaz Dharker.'" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                    />
+                                </BIBCITS> She recalled, <QUOTE DIRECT="Y">In school I was
+                                    considered a freak because I was the only Pakistani girl there.
+                                    I've valued that separation and difference. I wanted to be
+                                    different.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="De Souza 114" REF="https://commons.cwrc.ca/orlando:bibliographic-106-talking_poems_conversations_with_poets">114</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Bowell, 'Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-107-interview_with_imtiaz_dharker_by_helen_bowell"/>
+                                </BIBCITS></P><P>ID went on from <SOCALLED>Hutchey's</SOCALLED> to the <SCHOOL STUDENTBODY="CO-ED"
+                                    INSTITUTIONLEVEL="POST-SECONDARY"><ORGNAME STANDARD="University of Glasgow" REF="https://commons.cwrc.ca/orlando:d44f06d5-4fb9-412b-af38-7e144f7cff58 
+                                        ">University of Glasgow</ORGNAME></SCHOOL>, where she earned her
+                                    <DEGREE>Master of Arts</DEGREE> (which in Scotland is the first
+                                degree awarded) in <SUBJECT>English Literature</SUBJECT> and
+                                    <SUBJECT>Philosophy</SUBJECT>.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' Prabook" REF="https://commons.cwrc.ca/orlando:bibliographic-108-imtiaz_dharker_prabook"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </DIV2>
+                </EDUCATION>
+            </DIV1><DIV1><HEADING>First Marriage and Move to India</HEADING>
+                <FAMILY>
+                    <MEMBER RELATION="HUSBAND">
+                        <MARRIAGE><DIV2>
+                            <CHRONSTRUCT CHRONCOLUMN="BRITISHWOMENWRITERS" RELEVANCE="COMPREHENSIVE" RESP="KGL">
+                                    <DATE>1971</DATE>
+                                    <CHRONPROSE>When ID was seventeen, she met her first husband,
+                                        Indian <JOB>journalist and writer</JOB><NAME STANDARD="Dharker, Anil" REF="https://commons.cwrc.ca/orlando:person-96-dharker_anil"
+                                            >Anil Dharker</NAME>, at the <ORGNAME STANDARD="University of Glasgow" REF="https://commons.cwrc.ca/orlando:d44f06d5-4fb9-412b-af38-7e144f7cff58 
+                                                ">University of
+                                                Glasgow</ORGNAME>.</CHRONPROSE><BIBCITS>
+                                                    <BIBCIT>The Mirror</BIBCIT>
+                                                </BIBCITS>
+                                </CHRONSTRUCT>
+                            <SHORTPROSE><P>He was seven years her senior and
+                                was then studying and teaching engineering, though his career was in <JOB REG="editor">literary editing</JOB>.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="McCafferty, 'Summer Reads.'" REF="https://commons.cwrc.ca/orlando:bibliographic-110-summer_reads_imtiaz_dharker_eases_readers_into_poetry"></BIBCIT><BIBCIT PLACEHOLDER="Surendran" REF="https://commons.cwrc.ca/orlando:bibliographic--obituary_anil_dharker_19472021"></BIBCIT>
+                                </BIBCITS> Following her graduation, the couple eloped to Mumbai(Bombay at the time) where they eventually settled in the
+                                upscale residential area of <PLACE><PLACENAME>Malabar Hill</PLACENAME><SETTLEMENT REG="Mumbai"/><GEOG REG="India"/></PLACE>
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC The Conversation" REF=" https://commons.cwrc.ca/orlando:3a06ad52-0473-4deb-9037-b8f64ccbd677"></BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Surendran" REF="https://commons.cwrc.ca/orlando:bibliographic-109-obituary_anil_dharker_19472021"></BIBCIT>
+                                </BIBCITS>.</P>
+                                <P>ID was disowned by her Muslim family for her marriage, because
+                                    <NAME STANDARD="Dharker, Anil" REF="https://commons.cwrc.ca/orlando:person-96-dharker_anil">Anil Dharker</NAME> was Hindu.<BIBCITS>
+                                            <BIBCIT PLACEHOLDER="Shamsie 301" REF="https://commons.cwrc.ca/orlando:bibliographic-89-the_changing_world_of_contemporary_south_asian_poetry_in_english_a_collection_of_critical_essays">301</BIBCIT>
+                                        </BIBCITS> The result was a lifetime of estrangement from
+                                        her parents.</P>
+                            </SHORTPROSE>
+                            </DIV2></MARRIAGE>
+                    </MEMBER>
+                    <MEMBER RELATION="DAUGHTER">
+                        <DIV2>
+                            <SHORTPROSE>
+                                <P>ID has one daughter from her marriage, now the successful
+                                        <JOB>actress</JOB>
+                                    <NAME STANDARD="Dharker, Ayesha" REF="https://commons.cwrc.ca/orlando:d330ce80-df8e-4953-962d-dbf464499202 
+                                        ">Ayesha Dharker</NAME>, who was born in what was then
+                                            <PLACE><SETTLEMENT CURRENT="Mumbai" REG="Bombay"
+                                            >Bombay</SETTLEMENT><GEOG CURRENT="India"/></PLACE> in
+                                    1977.</P>
+                            </SHORTPROSE>
+                        </DIV2>
+                    </MEMBER>
+                </FAMILY>
+            </DIV1>
+            <DIV1>
+                <LOCATION RELATIONTO="MOVED">
+                    <DIV2>
+                        <HEADING>Life in India</HEADING>
+                        <SHORTPROSE>
+                            <P>After spending her childhood and adolescence in
+                                        <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
+                                        REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE>, ID found
+                                the move to <PLACE><SETTLEMENT REG="Mumbai"
+                                    /><GEOG>India</GEOG></PLACE>
+                                <QUOTE DIRECT="Y">was like hanging on to the edge of a cliff by my
+                                    fingernails,</QUOTE> though it exposed her to a wider range of
+                                life experiences, to the literary world, and to the nuances of her
+                                husband’s Hinduism. She would characterize this time in her life as
+                                one where taking risks taught her to be a better writer.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Kumar 53" REF="https://commons.cwrc.ca/orlando:bibliographic-123-unveiling_the_veil_critical_study_of_the_two_poems_purdah_i_ii_of_imtiaz_dharker">53</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Olney,'An Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:c32c443b-deee-45b6-96b8-99577232ef3b"
+                                    />
+                                </BIBCITS>
+                            </P>
+                        </SHORTPROSE>
+                    </DIV2>
+                </LOCATION>
+            </DIV1><DIV1><FAMILY><MEMBER RELATION="HUSBAND"><DIV2><SHORTPROSE><P><DIVORCE>ID’s marriage to <NAME STANDARD="Dharker, Anil" REF="https://commons.cwrc.ca/orlando:person-96-dharker_anil">Dharker</NAME> ended in 2002.</DIVORCE><BIBCITS>
+                                        <BIBCIT>The Mirror</BIBCIT>
+                                        <RESEARCHNOTE>Unable to locate sources from the Mirror KH to
+                                            MT: Any info on their divorce in AD's obituary, by any
+                                            chance?</RESEARCHNOTE><RESEARCHNOTE>MT to KH: Unfortunately, there is no mention of their divorce in his obituary. Will look elsewhere </RESEARCHNOTE>
+                                    </BIBCITS>
+                                    <QUOTE DIRECT="Y">I had married an Indian and gone to Bombay and
+                                        that was wonderful, and I have a beautiful daughter to show
+                                        for it. But there was a point where we began to grow apart.
+                                        Maybe I just grew up. So we had separated.</QUOTE><BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                        />
+                                        </BIBCITS></P><P><NAME STANDARD="Dharker, Anil" REF="https://commons.cwrc.ca/orlando:person-96-dharker_anil">Anil
+                                            Dharker</NAME> died early on <DATE CERTAINTY="CERT" VALUE="2021-03-26">26 March
+                                        2021</DATE>. His obituary in the <TITLE TITLETYPE="JOURNAL"
+                                        >Hindustan Times</TITLE> called him <QUOTE DIRECT="Y">one of
+                                        the great liberal Indian editors.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Surendran" REF="https://commons.cwrc.ca/orlando:bibliographic-109-obituary_anil_dharker_19472021"/>
+                                    </BIBCITS></P></SHORTPROSE></DIV2></MEMBER></FAMILY></DIV1>
+            <DIV1>
+                <HEADING>Second Marriage </HEADING>
+                <FAMILY>
+                    <MEMBER RELATION="HUSBAND">
+                        <MARRIAGE><DIV2>
+                            <SHORTPROSE>
+                                <P>
+                                    ID's second husband, <NAME STANDARD="Powell, Simon" REF="https://commons.cwrc.ca/orlando:person-97-powell_simon">Simon Powell</NAME>, was the 
+                                    <JOB REG="educational entrepreneur">founder</JOB> of 
+                                    <ORGNAME STANDARD="Poetry Live" REF="https://commons.cwrc.ca/orlando:organization-48-poetry_live">Poetry Live!</ORGNAME>, an educational organization 
+                                    that presents live poetry readings to schoolchildren studying English 
+                                    and provides information about these events on its events page. 
+                                    It has been supported by many distinguished British poets, and by 2008 
+                                    was reaching 100,000 students a year.
+                                    <BIBCITS>
+                                        <BIBCIT PLACEHOLDER="'Our Founder.' Poetry Live!" REF="https://commons.cwrc.ca/orlando:bibliographic-111-our_founder"/>
+                                    </BIBCITS>
+                                    Immediately after her separation from Anil Dharker, ID received a fax 
+                                    inviting her to read her poetry at forty upcoming events. 
+                                    <QUOTE DIRECT="Y">When I came to read, I met this incredible man 
+                                        called Simon Powell . . . everyone loved him. It took me only a few 
+                                        minutes to realize I was actually in love with him.</QUOTE> 
+                                    They were both in their fifties when they married: Powell's first wife 
+                                    had died in November 2002. They had an Indian wedding at which the 
+                                    bridegroom arrived on a white horse. Powell, having lived with cancer 
+                                    for more than a decade, died on 
+                                    <DATE CERTAINTY="CERT" VALUE="2009-10-25">25 October 2009</DATE>.
+                                    <BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Greer" REF="https://commons.cwrc.ca/orlando:bibliographic-112-farewell_to_poetrys_pal_from_carol_ann_duffy_the_nations_students_and_me"/>
+                                    </BIBCITS>
+                                    His death was mourned in a poem by <NAME STANDARD="Duffy, Carol Ann" REF="https://commons.cwrc.ca/orlando:fe21688e-085f-437b-8330-55e6a59c4b1b 
+                                        ">Carol Ann Duffy</NAME>, 
+                                    then Poet Laureate, and in a piece in the 
+                                    <TITLE TITLETYPE="JOURNAL">Guardian</TITLE> by 
+                                    <NAME STANDARD="Greer, Germaine" REF="https://commons.cwrc.ca/orlando:032d967d-fd34-4320-a37e-0ea2ca8539de  
+                                        " >Germaine Greer</NAME>.
+                                    <BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Greer" REF="https://commons.cwrc.ca/orlando:bibliographic-112-farewell_to_poetrys_pal_from_carol_ann_duffy_the_nations_students_and_me"/>
+                                    </BIBCITS>
+                                    ID said later, <QUOTE DIRECT="Y">I never laughed so much in my life 
+                                        as I did with him. We were together seven years, but seventy wouldn’t 
+                                        have been enough.</QUOTE><BIBCITS>
+                                            <BIBCIT
+                                                PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                            />
+                                        </BIBCITS> Her poetry volume <TITLE TITLETYPE="MONOGRAPHIC"
+                                            >Over the Moon</TITLE>, the first she published after
+                                        her husband’s death, reflects her grief in many poems.<BIBCITS>
+                                            <BIBCIT
+                                                PLACEHOLDER="Tuama, 'On a Poem by Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-113-on_a_poem_by_imtiaz_dharkerfrom_poetry_unbound"
+                                            />
+                                        </BIBCITS></P>
+                            </SHORTPROSE>
+                            </DIV2></MARRIAGE>
+                    </MEMBER>
+                </FAMILY>
+            </DIV1>
+            <DIV1>
+                <HEADING>A Multi-Faceted Career: Art and Film</HEADING>
+                <OCCUPATION>
+                    <DIV2>
+                        <SHORTPROSE>
+                            <P>Before the publication of <TITLE TITLETYPE="MONOGRAPHIC"
+                                    >Purdah</TITLE>, her first poetry collection, ID worked as the
+                                    <JOB>editor</JOB> of the <TGENRE GENRENAME="EDITING">poetry
+                                    section</TGENRE> of a magazine in India.<BIBCITS>
+                                    <BIBCIT>Purdah, back cover</BIBCIT>
+                                </BIBCITS></P>
+                            <P>In addition to her <JOB REG="writer">writing</JOB>, ID is an
+                                accomplished <JOB>filmmaker</JOB> and <JOB>artist</JOB>. By the time
+                                she published her first poetry volume, <TITLE TITLETYPE="MONOGRAPHIC">Purdah</TITLE>, she had held two solo
+                                exhibitions of her drawings in what was at the time
+                                        <PLACE><SETTLEMENT CURRENT="Mumbai" REG="Bombay">Bombay</SETTLEMENT><GEOG REG="India"/>. The first shared
+                                    its title with that of the poetry volume; the second was also
+                                    seen in <SETTLEMENT>Delhi</SETTLEMENT><GEOG REG="India"/></PLACE>. Three more solo exhibitions followed in Mumbai, and
+                                ID continued to exhibit in galleries in <PLACE><SETTLEMENT REG="New York City">New York</SETTLEMENT><REGION REG="New York"/><GEOG REG="USA"/></PLACE>,
+                                        <PLACE><SETTLEMENT>London</SETTLEMENT><REGION REG="Middlesex"/><REGION/><GEOG REG="England"/></PLACE>, and
+                                        <PLACE><SETTLEMENT>Hong Kong</SETTLEMENT><GEOG REG="China"/></PLACE> as her poetry career took off.<BIBCITS>
+                                            <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"></BIBCIT>
+                                </BIBCITS></P><P>In 1980 ID started <ORGNAME>SOLO</ORGNAME>, a company for the <QUOTE DIRECT="Y">production,
+                                    scripting and direction of video films,</QUOTE> of which more
+                                than 300 have been produced.
+                                    <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"></BIBCIT>
+                                    </BIBCITS>
+                                 She recieved the <SOCALLED>Silver Lotus</SOCALLED> for
+                                    best short film from the President of India, and the Balraj Sahni Award from the <ORGNAME STANDARD="All India Artists Association" REF="https://commons.cwrc.ca/orlando:organization-54-all_india_artists_association">All
+                                    India Artists Association</ORGNAME><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Sonwalkar, 'Imtiaz Dharker gets Queen’s
+                                            Gold Medal.'"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </DIV2>
+                </OCCUPATION>
+            </DIV1>
+            <DIV1>
+                <POLITICS>
+                    <DIV2>
+                        <SHORTPROSE>
+                            <P>ID's filmmaking career had its origins in telling stories about the
+                                suffering of children and social justice. Her films for
+                                <ORGNAME STANDARD="Unicef" REG="United Nations Children's Fund" REF="https://commons.cwrc.ca/orlando:organization-50-unicef">UNICEF</ORGNAME>, <ORGNAME STANDARD="Concern India Foundation" REF="https://commons.cwrc.ca/orlando:organization-55-concern_india_foundation">Concern India</ORGNAME>, and
+                                <ORGNAME STANDARD="CRY" REG="Child Relief and You" REF="https://commons.cwrc.ca/orlando:organization-51-child_rights_and_you_cry">CRY (Child Relief and You)</ORGNAME> addressed social
+                                justice topics including childhood leprosy, homeless children, and
+                                the state of cancer care in India.<BIBCITS>
+                                    <BIBCIT
+                                        REF="https://cwrc.ca/islandora/object/orlando%3Ade17b9a8-ef92-417e-a419-0ee7484f3c6e"
+                                        PLACEHOLDER="'Dharker named new Chancellor.' Newcastle University"/>
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"/>
+                                </BIBCITS> She continues to contribute to causes through her
+                                artistic pursuits, and is a committed activist against climate
+                                breakdown. In 2015 she contributed to an anthology of poems about
+                                climate change, and in 2020 she headlined <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Verse Aid: Poems for the Earth</TITLE>,
+                                hosted by <ORGNAME STANDARD="Poets for the Planet" REF="https://commons.cwrc.ca/orlando:organization-53-poets_for_the_planet">Poets for the Planet</ORGNAME> (a community of
+                                poets, with other artists and activists, committed to raising their
+                                voices to engage with the climate emergency).<BIBCITS>
+                                    <BIBCIT
+                                        PLACEHOLDER="'A climate change poem for today.' The Guardian"/>
+                                    <BIBCIT
+                                        PLACEHOLDER="Reid, 'VERSE Aid: Poems for the Earth.'"/>
+                                    <BIBCIT></BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </DIV2>
+                </POLITICS>
+            </DIV1>
+            <DIV1>
+                <FRIENDSASSOCIATES>
+                    <DIV2>
+                        <SHORTPROSE>
+                            <P>ID and poet <NAME STANDARD="Duffy, Carol Ann"
+                                    REF="https://cwrc.ca/islandora/object/orlando%3Aduffca">Carol
+                                    Ann Duffy</NAME> have expressed mutual admiration for each
+                                other's work and have worked together on publications, tours, and
+                                events. In 2016, <NAME STANDARD="Duffy, Carol Ann" REF="https://commons.cwrc.ca/orlando:fe21688e-085f-437b-8330-55e6a59c4b1b 
+                                    ">Duffy</NAME> chose ID to join her and three
+                                others for <ORGNAME REG="Shore to Shore Nationwide Poetry Tour"
+                                    REF="https://cwrc.ca/islandora/object/orlando:292fb8c6-6c12-4cff-9e16-53d2cec35382"
+                                    >Shore To Shore: Celebrating Poetry and Community</ORGNAME> with
+                                the Laureate and Friends, a major national tour of the <PLACE><GEOG
+                                        CURRENT="United Kingdom">United Kingdom </GEOG></PLACE> over
+                                fourteen days. Along with Duffy, the other two poets chosen for the
+                                tour, <NAME STANDARD="Kay, Jackie"
+                                    REF="https://cwrc.ca/islandora/object/orlando%3A4613d03b-8f26-4916-9de0-82a87f958e1c"
+                                    >Jackie Kay </NAME>and <NAME STANDARD="Clarke, Gillian"
+                                    REF="https://cwrc.ca/islandora/object/orlando%3Adc5b4389-c8e3-45d1-bf2b-e3b66763643f"
+                                    >Gillian Clarke</NAME>, are ID's <QUOTE DIRECT="Y">good friends
+                                    and collaborators.</QUOTE><BIBCITS>
+                                    <BIBCIT
+                                        PLACEHOLDER="MacMillan, 'The shore to shore poetry competition winners'"
+                                        ></BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Clark"/>
+                                </BIBCITS>
+                            </P>
+                        </SHORTPROSE>
+                    </DIV2>
+                </FRIENDSASSOCIATES>
+            </DIV1>
+      </BIOGRAPHY>
+        <WRITING>
+            <HEADING>Writing</HEADING>
+            <DIV1>
+                <HEADING>An Ongoing Passion for Poetry</HEADING>
+                <DIV2>
+                    <PRODUCTION>
+                        <SHORTPROSE><P>ID began writing <TGENRE GENRENAME="POETRY">poetry</TGENRE><TGENRE GENRENAME="JUVENILIA"
+                                    />at ten
+                                years old, but <QUOTE DIRECT="Y">didn’t realise that it was
+                                    poetry</QUOTE> until a year later, <PANTHOLOGIZATION>when a
+                                    teacher included one of her pieces in the school magazine and
+                                    called it a poem.</PANTHOLOGIZATION><BIBCITS>
+                                    <BIBCIT
+                                        PLACEHOLDER="Bowell, 'An Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-107-interview_with_imtiaz_dharker_by_helen_bowell""/>
+                                </BIBCITS></P>
+                            
+                        </SHORTPROSE>
+                    </PRODUCTION><TEXTUALFEATURES><SHORTPROSE><P><TVOICENARRATION>This poem <QUOTE DIRECT="Y">was about <TTHEMETOPIC>going up in
+                                            space</TTHEMETOPIC> and although the speaker was looking
+                                        back at the beautiful earth, he felt homesick. He knew it
+                                        was a giant step for mankind, but he still wanted his own
+                                        fireside.</QUOTE></TVOICENARRATION>
+                                <BIBCITS>
+                                    <BIBCIT
+                                        PLACEHOLDER="Bowell, 'An Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-107-interview_with_imtiaz_dharker_by_helen_bowell"/>
+                                </BIBCITS></P></SHORTPROSE></TEXTUALFEATURES><PRODUCTION><SHORTPROSE><P>ID has said that her choice of <TGENRE GENRENAME="POETRY">poetry</TGENRE> as a genre was strongly
+                                intentional. <QUOTE DIRECT="Y"><TTECHNIQUES TECHNIQUETYPE="DICTION"
+                                        >Poetry uses language in a different way. I think it uses
+                                        language to say things that go beyond the actual meaning of
+                                        the words. When it speaks well it can say what is really
+                                        unsayable.</TTECHNIQUES></QUOTE>
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                    />
+                                </BIBCITS>
+                                <PRARITIESFEATURESDECORATIONS><TTECHNIQUES>Her poetry and
+                                        illustrations are meant to be experienced together. She has
+                                        discussed how, when she places the pen to paper, she never
+                                        knows if the work is to become a poem or a drawing. In her
+                                        mind, there is little differentiation between words and
+                                        illustrative lines. <QUOTE DIRECT="Y">When I’m thinking
+                                            around a theme the drawings work around that theme as
+                                            well. For me it’s just a different extension of the same
+                                            things that go on in my
+                                    mind.</QUOTE></TTECHNIQUES></PRARITIESFEATURESDECORATIONS><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                    />
+                                </BIBCITS> As her poetry developed, ID’s works became interwoven
+                                with both <TTHEMETOPIC>personal experiences</TTHEMETOPIC> and
+                                broader <TGENRE GENRENAME="POLITICALWRITING">political and social
+                                    themes</TGENRE>, enmeshed with the medium itself. <QUOTE
+                                    DIRECT="Y"><PATTITUDES>Poetry speaks back to the whole messy
+                                        business of living with everything it has. It speaks with
+                                        the body, the rush of blood to the heart and the music of
+                                        being human.</PATTITUDES></QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman"/>
+                                </BIBCITS></P></SHORTPROSE></PRODUCTION>
+                </DIV2>
+            </DIV1>
+            <DIV1>
+                <HEADING>Poetry Collections</HEADING>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Purdah</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Purdah, 1989" REF="https://commons.cwrc.ca/orlando:bibliographic-68-purdah_and_other_poems"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="SELECTIVE" RESP="SYS">
+                            <DATE>14 September 1989</DATE>
+                            <CHRONPROSE><PRARITIESFEATURESDECORATIONS>The now-defunct <ORGNAME STANDARD="Three Crowns Books" REF="https://commons.cwrc.ca/orlando:organization-49-three_crowns_books">Three
+                                Crowns Books</ORGNAME> imprint of <ORGNAME STANDARD="Oxford University Press
+                                    " REF="https://commons.cwrc.ca/orlando:6ad3f7c1-b263-42cd-bfe2-e864ddecf761 
+                                    ">Oxford University
+                                        Press</ORGNAME>, which published mainly British Commonwealth
+                                    authors from South Asia and Africa, issued ID’s first collection
+                                    of <TGENRE GENRENAME="POETRY">poetry</TGENRE>, <TITLE
+                                        TITLETYPE="MONOGRAPHIC" REG="Purdah">Purdah And Other
+                                        Poems</TITLE>, which displayed one of her own illustrations
+                                    on the cover.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                            </BIBCITS>
+                            <SCHOLARNOTE>
+                                <P><FOREIGN LANG="Hindi">Purdah</FOREIGN>, a Hindi word which
+                                    translates as <SOCALLED>curtain</SOCALLED>, is the name given to
+                                    the practice in some Hindu and Muslim societies of secluding
+                                    women from public observation through the wearing of the veil
+                                    and through the use of screens and separate rooms within the
+                                    home.</P>
+                            </SCHOLARNOTE>
+                        </CHRONSTRUCT>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P>In this collection, ID’s poems explore the experience of being
+                                between cultures and identities,
+                                    <TTHEMETOPIC>displacement</TTHEMETOPIC>, <TTHEMETOPIC>borders
+                                    both public and internal</TTHEMETOPIC>, <TTHEMETOPIC>entrapment
+                                    and freedom</TTHEMETOPIC>, and the veil which <QUOTE DIRECT="Y"
+                                    >seclud[es] women from public observation.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Jenkins 121">121</BIBCIT>
+                                </BIBCITS>
+                                <QUOTE DIRECT="Y">They have all been sold and bought, / the girls I
+                                    knew / unwilling virgins who had been taught</QUOTE> to hide
+                                their brightness, but <QUOTE DIRECT="Y">especially in this
+                                    strangers' land.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921"/>
+                                </BIBCITS> These poems display the tension between veiling and
+                                revealing that accompanied ID in her life as she straddled two
+                                worlds in being a Glaswegian of South Asian heritage. In the poem
+                                    <TITLE TITLETYPE="ANALYTIC">Borderlands</TITLE> she navigates
+                                the balancing on and the crossing of lines that are simultaneously
+                                psychological and geographical, the fine margin between
+                                    <TTHEMETOPIC>being trapped and being free.</TTHEMETOPIC>
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Jenkins 121-2">121-2</BIBCIT>
+                                </BIBCITS>
+                            </P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Postcards from God</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Postcards from God, 1997" REF="https://commons.cwrc.ca/orlando:bibliographic-69-postcards_from_god"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT RESP="IMG" CHRONCOLUMN="BRITISHWOMENWRITERS" RELEVANCE="PERIOD">
+                            <DATE>29 May 1997</DATE>
+                            <CHRONPROSE><PEDITIONS>A <ORGNAME STANDARD="Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:2f55e370-3977-4c5d-b417-5c5b371c0584  
+                                ">Bloodaxe</ORGNAME> edition of ID's
+                                        <TITLE TITLETYPE="MONOGRAPHIC" REG="Postcards from God"
+                                        >Postcards from God</TITLE> followed the first edition,
+                                    published in <PLACE><SETTLEMENT>New Delhi</SETTLEMENT><GEOG
+                                        REG="India"/></PLACE> by <ORGNAME STANDARD="Penguin Viking" REF="https://commons.cwrc.ca/orlando:c2e199fd-1acb-4e09-b9ff-e0f01a47b929 
+                                            ">Viking</ORGNAME> in
+                                    1994. <PRARITIESFEATURESDECORATIONS>The Bloodaxe edition
+                                        (bearing on its cover her stretch of a ramshackle
+                                        street)</PRARITIESFEATURESDECORATIONS> added to this
+                                    collection the <TGENRE GENRENAME="POETRY">poems</TGENRE> from
+                                    her first volume, <TITLE TITLETYPE="MONOGRAPHIC"
+                                    >Purdah</TITLE>.</PEDITIONS></CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                        <SHORTPROSE>
+                            <P><PRELATIONSWITHPUBLISHER><PPLACEOFPUBLICATION>This was her earliest
+                                        publication in Britain,</PPLACEOFPUBLICATION> and began her
+                                    successful twenty-year partnership with
+                                <ORGNAME STANDARD="Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:2f55e370-3977-4c5d-b417-5c5b371c0584 
+                                    ">Bloodaxe</ORGNAME>, who have since published all
+                                    her poetry volumes.</PRELATIONSWITHPUBLISHER><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"/>
+                                    <BIBCIT PLACEHOLDER="‘Listing.’ TLS 4917"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
+                                        >32</BIBCIT>
+                                </BIBCITS>
+                            </P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P><TITLE TITLETYPE="ANALYTIC">Postcards from God I</TITLE>, the poem
+                                she places first among those on her website, opens: <QUOTE
+                                    DIRECT="Y">Yes, I do feel like a visitor, / a tourist in this
+                                    world / that I once made.</QUOTE> The volume mounts a more
+                                explicit social critique than <TITLE TITLETYPE="MONOGRAPHIC"
+                                    >Purdah</TITLE>, foregrounding people forced to exist in the
+                                    <TTHEMETOPIC>overcrowded conditions of
+                                            <PLACE><SETTLEMENT>Mumbai</SETTLEMENT><GEOG REG="India"
+                                        /></PLACE></TTHEMETOPIC>. Dharker's <TGENRE
+                                    GENRENAME="POLITICALWRITING">overtly political</TGENRE> language
+                                serves to turn her rage outward.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'"/>
+                                </BIBCITS>
+                                <PRARITIESFEATURESDECORATIONS>The accompanying illustrations were
+                                    created as <QUOTE>visual rhymes for the poems</QUOTE> to
+                                    demonstrate the relationship between words and lines of drawing
+                                    as one where the drawings are an extension of the words, rather
+                                    than an illustration of them.</PRARITIESFEATURESDECORATIONS><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Chandran 872">872</BIBCIT>
+                                </BIBCITS> They are <QUOTE DIRECT="Y">designed to slow down the pace
+                                    of reading, or perhaps to urge us to read the sketches and scan
+                                    the poems.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Chandran 872">872</BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P><RRESPONSES FORMALITY="FORMAL" RESPONSETYPE="RE-EVALUATION">Not all reviews
+                                were favourable. Poet <TTONESTYLE><NAME STANDARD="Pinto, Jerry" REF="https://commons.cwrc.ca/orlando:person-98-pinto_jerry">
+                                    Jerry Pinto</NAME>
+                                        asserted that the rage he sensed in ID’s blunt-edged poetry
+                                            <QUOTE DIRECT="Y">had turned some of the poems into
+                                            posters, the images into slogans.</QUOTE></TTONESTYLE>
+                                    <BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Pinto, 'Imtiaz Unbound.'" REF="https://commons.cwrc.ca/orlando:bibliographic-122-imtiaz_unbound"/>
+                                    </BIBCITS></RRESPONSES>
+                                <RRESPONSES GENDEREDRESPONSE="GENDEREDYES" FORMALITY="FORMAL"
+                                    RESPONSETYPE="INITIAL">Writing in <TITLE TITLETYPE="JOURNAL"
+                                        >India Today</TITLE>, <NAME STANDARD="Futehally, Shama" REF="https://commons.cwrc.ca/orlando:person-101-futehally_shama">Shama Futehally</NAME> remarked
+                                    on Dharker's outward consideration of a world beset by
+                                    unrelenting <TMOTIF>violence</TMOTIF> and
+                                        <TTHEMETOPIC>poverty</TTHEMETOPIC>, and her technique of
+                                        <TVOICENARRATION>writing from the perspective of
+                                        God</TVOICENARRATION>
+                                    <TTECHNIQUES TECHNIQUETYPE="DICTION">to combine <QUOTE
+                                            DIRECT="Y">grave truths and spoken idiom</QUOTE> in her
+                                        writing.</TTECHNIQUES> He described the collection as poetry
+                                        <QUOTE DIRECT="Y">which makes it much easier for us to come
+                                        to terms with the world around us.</QUOTE> He was critical
+                                    of some poems for failing to follow through on their ambitions,
+                                    and wrote that some fall victim to
+                                        <SOCALLED>diagramming</SOCALLED>, that is, they rely too
+                                    heavily on the illustrations to direct the reading and
+                                    interpretation. Casually brushing off any suggestion of
+                                    chauvinism, he suggested that Dharker's success in representing
+                                    details of the world in her poetry is in part a result of her
+                                    being a woman, though he also perceived her worldview as unique
+                                    among women artists.<BIBCITS>
+                                        <BIBCIT
+                                            PLACEHOLDER="Futehally, 'Imtiaz Dharker's Postcards from God.'"
+                                            REF="https://cwrc.ca/islandora/object/orlando%3Aaeb3a128-9f1c-479d-9a26-6786c92012e0"
+                                        />
+                                    </BIBCITS>
+                                    <NAME STANDARD="Sen, Sudeep" REF="https://commons.cwrc.ca/orlando:person-99-sen_sudeep">Sen Sudeep</NAME> in the <TITLE TITLETYPE="JOURNAL">Times
+                                        Literary Supplement</TITLE> commented on ID's <QUOTE
+                                        DIRECT="Y">tightly wrought Muslim sensibility, one that is
+                                        further strengthened by her individual Indian woman's point
+                                        of view.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921"
+                                            REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
+                                        />
+                                    </BIBCITS></RRESPONSES></P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">I Speak for the Devil</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, I Speak for the Devil, 2001" REF="https://commons.cwrc.ca/orlando:bibliographic-70-i_speak_for_the_devil"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT CHRONCOLUMN="BRITISHWOMENWRITERS" RELEVANCE="DECADE" RESP="IMG">
+                            <DATE>26 July 2001</DATE>
+                            <CHRONPROSE><TITLE TITLETYPE="MONOGRAPHIC">I Speak for the
+                                Devil</TITLE>, ID’s third collection of <TGENRE GENRENAME="POETRY"
+                                    >poetry</TGENRE>, was published.</CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT>Blackwell's</BIBCIT>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P>ID's poems in this collection engage deeply with themes of
+                                    <TTHEMETOPIC>women’s bodies as territories</TTHEMETOPIC>, sites
+                                of transition and possession, and of the <TTHEMETOPIC>physical
+                                    resistance of women</TTHEMETOPIC> to subjection by narrow
+                                definitions of identity as prescribed under
+                                    <TTHEMETOPIC>patriarchy</TTHEMETOPIC>. Where some thought <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Purdah</TITLE> and <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Postcards from God</TITLE> speak from
+                                behind the veil, ID here pushes her work to new places beyond those
+                                restrictions. The <QUOTE DIRECT="Y">starting-point . . . is the
+                                    strip-tease about what happens when the self <QUOTE DIRECT="N"
+                                        >squeezes past the easy cage of bone.</QUOTE></QUOTE>’” <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Haider 247" REF="https://commons.cwrc.ca/orlando:fa91a800-5e75-4445-a2fc-f01f6695e80d">247</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'"/>
+                                </BIBCITS> This volume includes the poem <TITLE TITLETYPE="ANALYTIC"
+                                    >Honour Killing</TITLE>, about a young woman named <NAME STANDARD="Sarwar, Samia" REF="https://commons.cwrc.ca/orlando:person-102-sarwar_samia">Samia
+                                    Sarwar</NAME> who in 1999 was <TMOTIF MOTIFNAME="violence">shot
+                                    dead at a lawyer's office in
+                                            <PLACE><SETTLEMENT>Lahore</SETTLEMENT><GEOG
+                                            REG="Pakistan"/></PLACE> by an assassin her mother hired
+                                    because she had filed for <TMOTIF>divorce</TMOTIF></TMOTIF>.<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Das 54" REF="https://commons.cwrc.ca/orlando:bibliographic-84-stripping_veiling_and_inscribing_devising_the_body_in_the_works_of_sylvia_plath_imtiaz_dharker_shirin_neshat_and_randa_abdelfattah">54</BIBCIT>
+                                        <BIBCIT PLACEHOLDER="Rajashekar and Malleswaramma 63" REF="https://commons.cwrc.ca/orlando:bibliographic-120-intolerance_and_cultures_of_welcome_in_imtiaz_dharkers_poetry">63</BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P>This poem has attracted high levels of commentary and study notes,
+                                and has featured on the British GCSC syllabus.</P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">The Terrorist at my
+                        Table</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, The Terrorist at my Table, 2006" REF="https://commons.cwrc.ca/orlando:bibliographic-71-the_terrorist_at_my_table"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT RESP="IMG" RELEVANCE="PERIOD" CHRONCOLUMN="BRITISHWOMENWRITERS">
+                            <DATE>27 April 2006</DATE>
+                            <CHRONPROSE><ORGNAME STANDARD="Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:2f55e370-3977-4c5d-b417-5c5b371c0584 
+                                ">Bloodaxe Books</ORGNAME> published ID's fourth
+                                    <TGENRE GENRENAME="POETRY">poetry</TGENRE> volume, <TITLE
+                                    TITLETYPE="MONOGRAPHIC">The Terrorist at my Table</TITLE>.
+                                Dharker and her already <QUOTE DIRECT="N">[I]nternationally
+                                    acclaimed</QUOTE>
+                                <NAME STANDARD="Dharker, Ayesha" REF="https://commons.cwrc.ca/orlando:d330ce80-df8e-4953-962d-dbf464499202">daughter</NAME> were both present
+                                at the launch of its Indian edition in <PLACE><SETTLEMENT>New
+                                        Delhi</SETTLEMENT><GEOG REG="India"/></PLACE> in May
+                                2007.</CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT
+                                    PLACEHOLDER="Hindustan Times, 'An evening with a terrorist.'" REF="https://commons.cwrc.ca/orlando:bibliographic-119-an_evening_with_a_terrorist"/>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                        <SHORTPROSE>
+                            <P><PEDITIONS>The cover of the English edition features ID's drawing of
+                                    a female figure whose eyes are all that is visible beneath
+                                    loose, enveloping, striped garments.</PEDITIONS><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P>Many poems here are either direct or indirect responses to the
+                                    <TMOTIF MOTIFNAME="violence"><DATE>September 11 2001</DATE>
+                                    <PLACE><PLACENAME>World Trade Center </PLACENAME><SETTLEMENT
+                                            REG="New York City"/><REGION REG="New York"/><GEOG
+                                            REG="USA"/></PLACE> attacks</TMOTIF>, and explore the
+                                complexities of cultural and personal identity in a world marked by
+                                conflict and change, questions of identity, belonging, and the
+                                impact of global events on individual lives. <TTECHNIQUES
+                                    TECHNIQUETYPE="IMAGERY">But <TITLE TITLETYPE="ANALYTIC">How to
+                                        Cut a <TTHEMETOPIC>Pomegranate</TTHEMETOPIC></TITLE> (about
+                                    a fruit that turns up regularly in Dharker's work)</TTECHNIQUES>
+                                deals not with violence (despite its opening: <QUOTE DIRECT="Y"
+                                        ><QUOTE DIRECT="N">Never,</QUOTE> said my <NAME
+                                            STANDARD="Shair, Choudhury" REF="https://commons.cwrc.ca/orlando:person-104-chaudhri_sher_mobarik">father</NAME>,<QUOTE
+                                        DIRECT="N">Never cut a pomegranate / through the heart. It
+                                        will weep blood.</QUOTE></QUOTE>) but with nostalgia and the
+                                loss of imagined beauty, <TTECHNIQUES TECHNIQUETYPE="IMAGERY">with
+                                    sensuous images matching the beauty of blood-red pomegranate
+                                    seeds</TTECHNIQUES>. <QUOTE DIRECT="Y">The juice tasted of
+                                    gardens / I had never seen . . . . The pomegranate reminded me /
+                                    that somewhere I had another home.</QUOTE>
+                                <TITLE TITLETYPE="ANALYTIC">Carving</TITLE>, too, belies the
+                                sharpness of its title: <QUOTE DIRECT="Y">We let the moment rise /
+                                    like birds and planes and angels / to the sky. / Eternity is
+                                    this.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'About Us.' Poems on the Underground" REF="https://commons.cwrc.ca/orlando:bibliographic-115-about_us_poems_on_the_underground"/>
+                                </BIBCITS>
+                                <TITLE TITLETYPE="ANALYTIC">I Need</TITLE> asserts need, or greed,
+                                for a succession of luscious foods from various cultures, until the
+                                final <SOCALLED>I need</SOCALLED> is the shortest: <QUOTE DIRECT="Y"
+                                    >I need you to come back.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Duffy" REF="https://commons.cwrc.ca/orlando:bibliographic-116-poems_to_get_us_through_love_loss_and_an_appetite_pricked_by_longing"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P><PPERIODICALPUBLICATION><NAME STANDARD="Duffy, Carol Ann" REF="https://commons.cwrc.ca/orlando:fe21688e-085f-437b-8330-55e6a59c4b1b 
+                                ">Carol Ann Duffy</NAME> chose <TITLE
+                                        TITLETYPE="ANALYTIC">I Need</TITLE> from this collection as
+                                    her contribution to a series run by the <TITLE
+                                        TITLETYPE="JOURNAL">Guardian</TITLE> of poems <QUOTE
+                                        DIRECT="Y">to comfort us in isolation</QUOTE> (because of
+                                    Covid19).</PPERIODICALPUBLICATION> Duffy judges ID's work to be
+                                    <QUOTE DIRECT="Y">full of a deep relish for all the world has to
+                                    offer – food, travel, colour, love – and a lip-smacking relish
+                                    for words themselves.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Duffy" REF="https://commons.cwrc.ca/orlando:bibliographic-112-farewell_to_poetrys_pal_from_carol_ann_duffy_the_nations_students_and_me"/>
+                                </BIBCITS>.</P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Leaving Fingerprints</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Leaving Fingerprints, 2009" REF="https://commons.cwrc.ca/orlando:bibliographic-76-leaving_fingerprints"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT CHRONCOLUMN="BRITISHWOMENWRITERS" RELEVANCE="PERIOD" RESP="IMG">
+                            <DATE>24 September 2009</DATE>
+                            <CHRONPROSE>In a new <TGENRE GENRENAME="POETRY">poetry</TGENRE> volume
+                                entitled <TITLE TITLETYPE="MONOGRAPHIC">Leaving
+                                Fingerprints</TITLE>, ID focused on the condition of
+                                    <TTHEMETOPIC>being lost or missing</TTHEMETOPIC>, on
+                                    <TTHEMETOPIC>traces left indelibly behind</TTHEMETOPIC>, on
+                                liminal spaces, <TTHEMETOPIC>surveillance</TTHEMETOPIC>, and
+                                    <TTHEMETOPIC>migration</TTHEMETOPIC>.</CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                        <SHORTPROSE>
+                            <P><PRARITIESFEATURESDECORATIONS>ID's cover drawing of an enlarged
+                                    impression of a whorled fingerprint is reminiscent of the way
+                                    the female figure is dressed in her cover drawing of <TITLE
+                                        TITLETYPE="MONOGRAPHIC">The Terrorist at my
+                                    Table</TITLE>.</PRARITIESFEATURESDECORATIONS></P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P><TSETTINGPLACE SETTINGPLACETYPE="REAL">Many of the poems here are set
+                                    in <PLACE><REGION>Sussex</REGION> landscapes around
+                                            <SETTLEMENT>Hastings</SETTLEMENT><GEOG REG="England"
+                                        /></PLACE>.</TSETTINGPLACE> They deal in
+                                    <TTHEMETOPIC>beaches, shores and fields</TTHEMETOPIC>, sand and
+                                soil, the erasure of moments and the detritus of history.</P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL">Writing in the <TITLE TITLETYPE="JOURNAL">Guardian</TITLE>,
+                            <NAME STANDARD="Crown, Sarah" REF="https://commons.cwrc.ca/orlando:6b19250f-2576-43ca-b885-1116c0c14338">Sarah Crown</NAME> reviewed this volume as well-grounded in
+                            identity and a sense of place, and noted how skilfully Dharker draws
+                            links between the two. Though she praised the symbolic cohesiveness of
+                            the volume, she was critical of the symbolism in the title, finding it
+                            too broad and obvious. <QUOTE DIRECT="Y">The title doesn’t so much hint
+                                as holler . . . it's easy to see the appeal of the fingerprint –
+                                with its suggestions of permanence, immutability, above all of
+                                ownership – to a woman in exile, unsure of her place in the
+                                world.</QUOTE><BIBCITS> 
+                                <BIBCIT PLACEHOLDER="Crown" REF="https://commons.cwrc.ca/orlando:bibliographic-76-leaving_fingerprints"/>
+                            </BIBCITS> Crown also found the poems at times inconsistent and
+                            overblown, though with <QUOTE DIRECT="Y">moments of excellence</QUOTE>
+                            and <QUOTE DIRECT="Y">glorious images</QUOTE>. <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Crown" REF="https://commons.cwrc.ca/orlando:bibliographic-76-leaving_fingerprints"/>
+                            </BIBCITS></RRESPONSES>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Over the Moon</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Over the Moon, 2014" REF="https://commons.cwrc.ca/orlando:bibliographic-75-over_the_moon"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT RESP="IMG" RELEVANCE="SELECTIVE"
+                            CHRONCOLUMN="BRITISHWOMENWRITERS">
+                            <DATE>25 September 2014</DATE>
+                            <CHRONPROSE><TITLE TITLETYPE="MONOGRAPHIC">Over the Moon</TITLE>, the
+                                first volume ID published after the death of her second husband,
+                                <NAME STANDARD="Powell, Simon" REF="https://commons.cwrc.ca/orlando:person-97-powell_simon">Simon Powell</NAME>, explores her feelings around her
+                                bereavement: her joy in being married to him, and the pain of losing
+                                him to cancer.</CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                        <SHORTPROSE>
+                            <P><PRARITIESFEATURESDECORATIONS>ID's cover features pomegranates,
+                                    brilliant white on dark, with a tiny crescent moon in a separate
+                                    frame above.</PRARITIESFEATURESDECORATIONS></P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P><TSETTINGPLACE>The poems here are set mostly in
+                                            <PLACE><SETTLEMENT>London</SETTLEMENT><REGION
+                                            REG="Middlesex"/><GEOG REG="England"
+                                    /></PLACE>.</TSETTINGPLACE></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P><RRECOGNITIONS>In the year of its publication <TITLE
+                                        TITLETYPE="MONOGRAPHIC">Over the Moon</TITLE> brought ID the
+                                        <RRECOGNITIONNAME>Queen's Medal for
+                                        Poetry</RRECOGNITIONNAME>, and was
+                                        <RRECOGNITIONNAME>shortlisted for the Ted Hughes Award for
+                                        New Work in Poetry</RRECOGNITIONNAME>.</RRECOGNITIONS>
+                                <RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL"><NAME STANDARD="Clarke, Gillian" REF="https://commons.cwrc.ca/orlando:dc5b4389-c8e3-45d1-bf2b-e3b66763643f 
+                                    ">Gillian Clarke</NAME> wrote
+                                        <QUOTE DIRECT="Y">The loss of a great love makes poems of
+                                        piercing beauty</QUOTE> in <QUOTE DIRECT="Y">her finest book
+                                        to date.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Bloodaxe"/>
+                                        <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Poetry Society" REF="https://commons.cwrc.ca/orlando:bibliographic-117-imtiaz_dharker_the_poetry_society" />
+                                    </BIBCITS></RRESPONSES></P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Luck is the Hook</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Luck is the Hook, 2018" REF="https://commons.cwrc.ca/orlando:bibliographic-72-luck_is_the_hook"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT CHRONCOLUMN="BRITISHWOMENWRITERS" RELEVANCE="PERIOD" RESP="IMG">
+                            <DATE>29 March 2018</DATE>
+                            <CHRONPROSE><ORGNAME STANDARD="Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:2f55e370-3977-4c5d-b417-5c5b371c0584 
+                                ">Bloodaxe Books</ORGNAME> published <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Luck is the Hook</TITLE>, ID's seventh
+                                volume of <TGENRE GENRENAME="POETRY">poetry</TGENRE>.
+                                    <PRARITIESFEATURESDECORATIONS>Her cover drawing depicts a
+                                    stylized female figure standing under a spherical fruit-bearing
+                                    tree under a full
+                                moon.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Bloodaxe"></BIBCIT>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                        <SHORTPROSE>
+                            <P><PMATERIALCONDITIONS>By now ID had been working as a poet for nearly
+                                    thirty years. She had become estranged from her family, left the
+                                    country of her formative years, been married twice and widowed
+                                    once, given birth to a daughter, and found success as a poet and
+                                    an influential voice in the South Asian writing
+                                    community.</PMATERIALCONDITIONS>
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Pinto, 'Imtiaz Unbound.'"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P>In <TITLE TITLETYPE="MONOGRAPHIC">Luck Is The Hook</TITLE> ID draws
+                                on her life experiences to explore the role of <TTHEMETOPIC>luck,
+                                    fate or chance</TTHEMETOPIC> in <QUOTE DIRECT="Y">finding or
+                                    losing people and places that are loved: a change in the
+                                    weather, a trick of language, a bomb that misses its mark, six
+                                    pomegranate seeds eaten by mistake;<SCHOLARNOTE>
+                                        <P>This refers to the Greek myth of
+                                                <TCHARACTERNAME>Persephone</TCHARACTERNAME> or
+                                            Proserpine, who was carried off to Hades. Before her
+                                            mother, <TCHARACTERNAME>Demeter</TCHARACTERNAME> or
+                                            Ceres the goddess of harvest, arrived to rescue her she
+                                            had eaten six pomegranate seeds; this condemned her to
+                                            stay in Hades for six months of each year, which created
+                                            winter on earth.</P>
+                                    </SCHOLARNOTE> all these events cast long shadows and raise
+                                    questions about who is recording them, about believing, not
+                                    believing, wanting to believe.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Bloodaxe"/>
+                                </BIBCITS>
+                                <TSETTINGDATE SETTINGDATETYPE="PAST">Chance produces incongruous
+                                    juxtapositions like an <TTHEMETOPIC>elephant</TTHEMETOPIC> on
+                                    the <PLACE><REGION>Thames</REGION><GEOG REG="England"/></PLACE>
+                                    in <PLACE><SETTLEMENT>London</SETTLEMENT><REGION REG="Middlesex"
+                                            /><GEOG REG="England"/></PLACE> during a
+                                    seventeenth-century frost fair.</TSETTINGDATE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018.'"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P><RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL">In the <TITLE TITLETYPE="JOURNAL"
+                                >Glasgow Review of Books</TITLE>, <NAME STANDARD="Green, Stephanie" REF="https://commons.cwrc.ca/orlando:577995bb-b05c-412d-8712-affc8043a076 
+                                    ">Stephanie Green</NAME> selected this as her <QUOTE DIRECT="Y"
+                                        >stand-out book of poetry this year,</QUOTE> an <QUOTE
+                                        DIRECT="Y">excellent, deeply moving collection.</QUOTE><BIBCITS>
+                                        <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018'"/>
+                                    </BIBCITS></RRESPONSES></P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+                <DIV2>
+                    <HEADING><TITLE TITLETYPE="MONOGRAPHIC">Shadow Reader</TITLE></HEADING>
+                    <TEXTSCOPE PLACEHOLDER="Imtiaz Dharker, Shadow Reader, 2024" REF="https://commons.cwrc.ca/orlando:bibliographic-74-shadow_reader"/>
+                    <PRODUCTION>
+                        <CHRONSTRUCT RESP="IMG" RELEVANCE="DECADE" CHRONCOLUMN="BRITISHWOMENWRITERS">
+                            <DATE>23 May 2024</DATE>
+                            <CHRONPROSE>ID published another volume of poems, <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Shadow Reader</TITLE>,
+                                    <PRARITIESFEATURESDECORATIONS>whose cover drawing shows an
+                                    indistinct female figure standing beside a column: her shadow
+                                    stretches down a long flight of
+                                    steps.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
+                            <BIBCITS>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF=""/>
+                            </BIBCITS>
+                        </CHRONSTRUCT>
+                    </PRODUCTION>
+                </DIV2>
+            </DIV1>
+            <DIV1>
+                <HEADING>An Anthology: <TITLE TITLETYPE="MONOGRAPHIC">On Shakespeare's Sonnets</TITLE></HEADING>
+                <DIV2>
+                    <PRODUCTION>
+                        <SHORTPROSE>
+                            <P><PANTHOLOGIZATION>ID was among thirty poets selected for the <TGENRE
+                                        GENRENAME="ANTHOLOGY">anthology</TGENRE>
+                                    <TITLE TITLETYPE="MONOGRAPHIC"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A3aecb1e1-ae9e-4c46-a72f-a70ac166c54c"
+                                        >On Shakespeare's Sonnets: A Poets' Celebration</TITLE>,
+                                    2016, alongside <NAME STANDARD="Duffy, Carol Ann"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3Aduffca"
+                                        >Carol Ann Duffy</NAME> and <NAME STANDARD="Clarke, Gillian"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3Adc5b4389-c8e3-45d1-bf2b-e3b66763643f"
+                                        >Gillian Clarke</NAME>,</PANTHOLOGIZATION> with whom she had
+                                previously travelled for nationwide readings for <ORGNAME
+                                    REF="https://cwrc.ca/islandora/object/orlando:292fb8c6-6c12-4cff-9e16-53d2cec35382"
+                                    STANDARD="Shore to Shore Nationwide Poetry Tour">Shore To Shore:
+                                    Celebrating Poetry and Community</ORGNAME><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="TLS 5888"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A3905d60d-18f1-418e-90c1-670c4f2d993e"
+                                    />
+                                </BIBCITS>
+                                <PPERIODICALPUBLICATION>Her contribution was one of three which the
+                                        <TITLE TITLETYPE="JOURNAL">Times Literary Supplement</TITLE>
+                                    selected for reprinting.</PPERIODICALPUBLICATION><BIBCITS>
+                                    <BIBCIT>15</BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </PRODUCTION>
+                    <TEXTUALFEATURES>
+                        <SHORTPROSE>
+                            <P>She contributed <TITLE TITLETYPE="ANALYTIC">The Trick</TITLE>, a
+                                response to <NAME
+                                    REF="https://cwrc.ca/islandora/object/orlando%3Acf31f8e7-ff5a-463a-adb8-20d1e1c5d8a3"
+                                    STANDARD="Shakespeare, William">Shakespeare's</NAME>
+                                <TITLE TITLETYPE="MONOGRAPHIC">Sonnet 43</TITLE> (<QUOTE DIRECT="Y"
+                                    >When most I wink, then do mine eyes best see,</QUOTE> a poem of
+                                repetition, paradox, and zeugma, about seeing the beloved most
+                                clearly when asleep).<BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Crawforth and Scott-Baumann 78"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A3aecb1e1-ae9e-4c46-a72f-a70ac166c54c"
+                                        >78</BIBCIT>
+                                </BIBCITS>
+                                <TINTERTEXTUALITY GENDEROFAUTHOR="MAN" INTERTEXTTYPE="ANSWER">The
+                                    title, <TGENRE GENRENAME="SONNET">sonnet</TGENRE> form, and
+                                    content of her <TGENRE GENRENAME="ANSWER">response</TGENRE>
+                                    reflect her description of the way <NAME
+                                        STANDARD="Shakespeare, William" REF="https://cwrc.ca/islandora/object/orlando%3Acf31f8e7-ff5a-463a-adb8-20d1e1c5d8a3">Shakespeare</NAME>
+                                    <QUOTE DIRECT="Y">plays tricks on the mind with light and shade,
+                                        with words that look and sound the same but make cunning
+                                        grammatical shifts.</QUOTE></TINTERTEXTUALITY>
+                                <TTONESTYLE>But hers is also a poem of deep feeling about
+                                        <TTHEMETOPIC>loss of the beloved</TTHEMETOPIC> except in
+                                    dreams: <QUOTE DIRECT="Y">For this, for this, I fall asleep in
+                                        haste, / willing to fall for the trick that tells the
+                                        truth.</QUOTE></TTONESTYLE>
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Crawforth and Scott-Baumann 78"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A3aecb1e1-ae9e-4c46-a72f-a70ac166c54c"
+                                        >78</BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </TEXTUALFEATURES>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P><RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL"
+                                    GENDEREDRESPONSE="GENDEREDNO">Early Modern scholar <NAME
+                                        STANDARD="Crawforth, Hannah"
+                                        REF="https://commons.cwrc.ca/orlando:66db078e-97c8-47fe-b481-2b2614a984c4 
+                                ">Hannah Crawforth</NAME>,
+                                    an editor of the anthology, praised Dharker's nuanced approach
+                                    to the intimidating task of responding to Shakespeare, writing
+                                    that <TITLE TITLETYPE="ANALYTIC">The Trick</TITLE> strikes an
+                                    elegant balance between emulation and innovation, indebtedness
+                                    and resistance, proximity and distance.</RRESPONSES><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="McCulloch, Times Literary Supplement"
+                                        >TLS</BIBCIT>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+            </DIV1>
+            <DIV1>
+                <HEADING>Poetry Readings, Appearances, Projects</HEADING>
+                <DIV2>
+                    <RECEPTION>
+                        <SHORTPROSE>
+                            <P>ID has been sought after for readings and appearances, and has read
+                                her poetry both in the UK and on the international touring circuit.
+                                She has recorded poems both for <TITLE TITLETYPE="MONOGRAPHIC">The
+                                    Poetry Archive</TITLE> and <TITLE TITLETYPE="ANALYTIC">Poetry
+                                    Archive Scotland</TITLE>, and is well represented in the <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Poetry Foundation</TITLE>'s online site.<BIBCITS> 
+                                    <BIBCIT PLACEHOLDER="The Poetry Archive" REF="https://commons.cwrc.ca/orlando:bibliographic-100-imtiaz_dharker_the_poetry_archive"></BIBCIT>
+                                    <BIBCIT></BIBCIT>
+                                    </BIBCITS> 
+                                Her poems appear on the British GCSE and A Level English syllabi, and she reads with other poets at 
+                                <ORGNAME STANDARD="Poetry Live" REF="https://commons.cwrc.ca/orlando:organization-48-poetry_live">Poetry Live!</ORGNAME> events, reaching more than 
+                                55,000 students each year.
+                                <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker BBC Radio interviews.' Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:bibliographic-97-imtiaz_dharker_bbc_radio_interviews__reviews_for_shadow_reader"/>
+                                </BIBCITS> 
+                                  
+                                In 2002 she was invited by the <ORGNAME STANDARD="Wordsworth Trust
+                                        " REF="https://commons.cwrc.ca/orlando:bd88c5be-efa0-4c37-9efe-268760473690 
+                                        ">Wordsworth
+                                    Trust</ORGNAME> to read her work with thirty other poets <QUOTE
+                                    DIRECT="Y">working at the cutting edge of their art.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="‘The Wordsworth Trust.’ TLS 5169"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3Acd1340e5-e378-40a9-8776-e2ee6ba29435"
+                                        ></BIBCIT>
+                                </BIBCITS> In 2011, Dharker joined a group of thirty migrant poets
+                                who read and recorded their work for the <ORGNAME
+                                    REF="https://cwrc.ca/islandora/object/orlando%3Ac3a1caac-f373-453f-bf00-70383b49ab65"
+                                    STANDARD="Arts Council of Great Britain">Arts
+                                Council</ORGNAME>-funded poetry recording project <TITLE
+                                    TITLETYPE="MONOGRAPHIC">Between Two Worlds: Poetry and
+                                    Translation</TITLE>, which was conceptualised and produced by
+                                Punjabi poet <NAME STANDARD="Chandan, Amarjit" REF="https://commons.cwrc.ca/orlando:person-103-chandan_amarjit">Amarjit
+                                    Chandan</NAME>. <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="‘Poetry and Translation.’ TLS 5669"
+                                        REF="https://cwrc.ca/islandora/object/orlando%3A96286377-460b-4ad4-a475-bdbcef9d0793"
+                                    />
+                                </BIBCITS> In 2020 she was one of selectors for <TITLE
+                                    TITLETYPE="SERIES">Poems on the Underground</TITLE>, and she is
+                                one of three editors of the <TITLE TITLETYPE="SERIES">Poems on the
+                                    Underground</TITLE> website. <BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'About us.' Poems on the Underground"/>
+                                </BIBCITS></P>
+                        </SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+            </DIV1>
+            <DIV1>
+                <HEADING>Honours and Awards</HEADING>
+                <DIV2>
+                    <RECEPTION><SHORTPROSE><P>
+                        <RRECOGNITIONS>From January to March 2013, ID served as<RRECOGNITIONNAME>Poet in Residence</RRECOGNITIONNAME> at <ORGNAME STANDARD="Cambridge University Library" REF=" https://commons.cwrc.ca/orlando:2ffb460b-1e43-42fe-a2ba-08de9388573e">Cambridge University Library</ORGNAME>, where she contributed to projects spanning multiple art forms in Leeds, Newcastle and Hull as well as work with the Archives of St Paul’s Cathedral.
+                        </RRECOGNITIONS><BIBCITS>
+                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' Scottish Poetry Library"></BIBCIT></BIBCITS>
+                        
+                        
+                        <RRECOGNITIONS>In 2014 ID was awarded the
+                                    <RRECOGNITIONNAME>Queen's Gold Medal for
+                                    Poetry</RRECOGNITIONNAME>.</RRECOGNITIONS> This significant
+                            achievement was also personally important in the context of her
+                            upbringing in a strongly monarchist household. <QUOTE DIRECT="Y">When my
+                                father died he was almost 100 years old. Occasionally names would
+                                slip out of his head. The person he remembered was the
+                                <NAME STANDARD="Elizabeth II, Queen" REF="https://commons.cwrc.ca/orlando:58938834-f207-4ae5-9e47-d9e7efe34458
+                                    ">Queen</NAME>; he spoke of her up to the end with great
+                                admiration and affection. I know he would be delighted, and would
+                                have forgiven me somehow if he knew.</QUOTE><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs"></BIBCIT></BIBCITS></P><P><RRECOGNITIONS>ID is a Fellow of the <ORGNAME STANDARD="Royal Society of Literature
+                                        " REF="https://commons.cwrc.ca/orlando:6ad6df3b-3f5a-45b4-b56d-5d4a2eae7008 
+                                        ">Royal Society of Literature</ORGNAME>. She was awarded an
+                                        <RRECOGNITIONNAME>honorary doctorate</RRECOGNITIONNAME> from
+                                        <ORGNAME STANDARD="School of Oriental and African Studies, London University" REF="https://commons.cwrc.ca/orlando:e667ba7a-9a04-44bc-979b-3fcda66d5aca 
+                                            " >SOAS</ORGNAME>, University of London in 2016, and in
+                                    2019 she was one of those seriously considered to succeed
+                                        <NAME STANDARD="Duffy, Carol Ann" REF="https://commons.cwrc.ca/orlando:fe21688e-085f-437b-8330-55e6a59c4b1b 
+                                            ">Carol Ann Duffy</NAME> as Poet Laureate. She was
+                                    rumoured to have been offered this <QUOTE DIRECT="Y">huge
+                                        honour</QUOTE>, and was quoted as declining: <QUOTE DIRECT="Y"><PATTITUDES>I had to weigh the privacy I need to
+                                            write poems against the demands of a public
+                                            role.</PATTITUDES> The poems
+                                    won.</QUOTE></RRECOGNITIONS><BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Flood"></BIBCIT></BIBCITS>
+                                        <RRECOGNITIONS>
+                                            In 2020 ID was named <RRECOGNITIONNAME>Chancellor</RRECOGNITIONNAME>of <ORGNAME STANDARD="Newcastle University" REF="https://commons.cwrc.ca/orlando:organization-58-newcastle_university">Newcastle University</ORGNAME>.
+                                        </RRECOGNITIONS>In inviting her to become Chancellor, ID states that <QUOTE DIRECT="Y">Newcastle University has reconfirmed that it places poetry at the heart of its great, pulsing activity, and this delights me more than I can say</QUOTE>
+                                        <BIBCITS>
+                                            <BIBCIT PLACEHOLDER="'Dharker named new Chancellor.' Newcastle University" REF=" https://commons.cwrc.ca/orlando:de17b9a8-ef92-417e-a419-0ee7484f3c6e"></BIBCIT>
+                                        </BIBCITS>
+                                    </P></SHORTPROSE>
+                    </RECEPTION>
+                </DIV2>
+            </DIV1>
+        </WRITING>
+        <WORKSCITED>
+            <SOURCE>Blackwell's</SOURCE>
+            <SOURCE>Bloodaxe Books website</SOURCE>
+            <SOURCE>Sarah Crown, "Review. Leaving Fingerprints by Imtiaz Dharker", Guardian, 5 December 2009, https://www.theguardian.com/books/2009/dec/05/leaving-fingerprints-imtiaz-dharker-review, accessed 6 March 2024</SOURCE>
+            <SOURCE>Imtiaz Dharker, "A climate change poem for today: X by Imtiaz Dharker", The Guardian, 25 May 2015, https://www.theguardian.com/environment/2015/may/25/a-climate-change-poem-for-today-x-by-imtiaz-dharker, accessed 4 March 2024</SOURCE>
+            <SOURCE>Carol Ann Duffy, "Poems to get us through: love, loss and an appetite pricked by longing", Guardian, 30 April 2020, https://www.theguardian.com/books/2020/apr/30/poems-to-get-us-through-i-need-by-imtiaz-dharker, accessed 6 March 2024
+        </SOURCE>
+            <SOURCE>"An evening with a 'terrorist', Hindustan Times, 14 May 2007, https://www.hindustantimes.com/books/an-evening-with-a-terrorist/story-68bvLrIoUWSHUadIoFF1pN.html, accessed 4 March 2024</SOURCE>
+            <SOURCE>Alison Flood, "Hunt for next poet laureate still on as Imtiaz Dharker says no to
+                job", Guardian 3 May 2019,
+                https://www.theguardian.com/books/2019/may/03/hunt-next-poet-laureate-imtiaz-dharker-carol-ann-duffy,
+                accessed 1 March 2024</SOURCE>
+            <SOURCE>Stephanie Green, "Reads of the year 2018", Glasgow Review of Books, 4 January 2019, https://www.bloodaxebooks.com/ecs/product/over-the-moon-151, accessed 7 March 2024&amp;gt;</SOURCE>
+            <SOURCE>Poems on the Underground, https://poemsontheunderground.org</SOURCE>
+            <SOURCE>Germaine Greer, Farewell, Guardian November 202, https://www.theguardian.com/books/2010/nov/28/germaine-greer-simon-powell-poetry, accessed 3 March 2024</SOURCE>
+            <SOURCE>Poetry Archive</SOURCE>
+            <SOURCE>Poetry Foundation</SOURCE>
+            <SOURCE>Poets for the Planet, https://poetsfortheplanet.org.uk/, accessed 4 March 2024</SOURCE>
+            <SOURCE>Prabook, https://prabook.com/web/imtiaz.dharker/3749973, accessed 1 March 2024</SOURCE>
+            <SOURCE>Prasun Sonwalkar, "Pakistan-born poet Imtiaz Dharker gets Queen’s
+                Gold Medal", Hindustan Times (19 December 2014, accessed 2 March 2024</SOURCE>
+            <SOURCE>C. P. Surendran, "Obituary: Anil Dharker (1947-2021", Hindustan Times, 26 March 2021</SOURCE>
+            <SOURCE>TLS, various pages online</SOURCE></WORKSCITED>
+    </DIV0>
+</ENTRY>
