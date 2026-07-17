@@ -58,14 +58,14 @@
                                         <PLACE><PLACENAME>The Gorbals</PLACENAME> in
                                         <SETTLEMENT>Glasgow</SETTLEMENT><GEOG REG="Scotland"
                                     /></PLACE>.<BIBCITS>
-                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC The Conversation" REF=" https://commons.cwrc.ca/orlando:3a06ad52-0473-4deb-9037-b8f64ccbd677 
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC The Conversation" REF="https://commons.cwrc.ca/orlando:3a06ad52-0473-4deb-9037-b8f64ccbd677 
 "/>
                                 </BIBCITS> As her father’s business became more successful, her
                                 family moved to <PLACE><PLACENAME>Pollokshields</PLACENAME>, a more
                                     affluent suburb of <SETTLEMENT>Glasgow</SETTLEMENT><GEOG
                                         REG="Scotland"/></PLACE>, into <QUOTE DIRECT="Y">a lovely
                                     house with a beautiful garden.</QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker,' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746  
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker,' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746  
 "
                                     />
                                 </BIBCITS></P></SHORTPROSE></DIV2></LOCATION></DIV1>
@@ -132,7 +132,7 @@
                                                 CURRENT="Mumbai">Bombay</SETTLEMENT><GEOG
                                                 REG="India"/></PLACE> stole my accent but I get it
                                         back if I spend a few days in Scotland.</QUOTE><BIBCITS>
-                                        <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman" REF=" https://commons.cwrc.ca/orlando:7d1c3d64-74d8-4f7d-9760-1ec1edb04ce1"/>
+                                        <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman" REF="https://commons.cwrc.ca/orlando:7d1c3d64-74d8-4f7d-9760-1ec1edb04ce1"/>
                                     </BIBCITS> Yet, visiting <PLACE><GEOG>Pakistan</GEOG></PLACE>
                                     for the first time at the age of thirteen, Imtiaz found it to be
                                     a landscape where she was completely at home.<BIBCITS>
@@ -176,12 +176,12 @@
                                             Glasgow</SETTLEMENT><REGION REG="Lanarkshire"/><GEOG
                                             REG="Scotland"/></PLACE> after her coronation.<BIBCITS>
                                         <BIBCIT
-                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF="https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
                                         />
                                     </BIBCITS>. Her feasts were, according to ID, <QUOTE DIRECT="Y"
                                         >legend</QUOTE>.<BIBCITS>
                                         <BIBCIT
-                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF="https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
                                         />
                                     </BIBCITS></P><P>After ID's elopement around 1971, she never saw her mother again.</P>
                             </SHORTPROSE>
@@ -236,11 +236,11 @@
                                         gave me a hug, and went on into the domestic
                                         transit.</QUOTE><BIBCITS>
                                         <BIBCIT
-                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"
                                         />
                                     </BIBCITS></P><P>Choudhury Shair died
                                         at ninety-nine years old.<BIBCITS>
-                                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF=" https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"></BIBCIT></BIBCITS></P>
+                                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' BBC Desert Island Discs" REF="https://commons.cwrc.ca/orlando:23876b8b-5713-47a5-92aa-2e3f3f910746"></BIBCIT></BIBCITS></P>
                             </SHORTPROSE>
                         </DIV2>
                     </MEMBER>
@@ -258,7 +258,7 @@
                                             <PLACE><SETTLEMENT>Glasgow</SETTLEMENT><REGION
                                             REG="Lanarkshire"/><GEOG REG="Scotland"/></PLACE>.<BIBCITS>
                                         <BIBCIT
-                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF=" https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
+                                            PLACEHOLDER="'Imtiaz Dharker.' BBC Reflections on Majesty" REF="https://commons.cwrc.ca/orlando:26dfe255-7312-4f86-869d-ae358ba3042b"
                                         />
                                     </BIBCITS></P>
                             </SHORTPROSE>
@@ -465,18 +465,17 @@
                                 ID continued to exhibit in galleries in <PLACE><SETTLEMENT REG="New York City">New York</SETTLEMENT><REGION REG="New York"/><GEOG REG="USA"/></PLACE>,
                                         <PLACE><SETTLEMENT>London</SETTLEMENT><REGION REG="Middlesex"/><REGION/><GEOG REG="England"/></PLACE>, and
                                         <PLACE><SETTLEMENT>Hong Kong</SETTLEMENT><GEOG REG="China"/></PLACE> as her poetry career took off.<BIBCITS>
-                                            <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"></BIBCIT>
-                                </BIBCITS></P><P>In 1980 ID started <ORGNAME>SOLO</ORGNAME>, a company for the <QUOTE DIRECT="Y">production,
+                                            <BIBCIT PLACEHOLDER="Imtiaz Dharker Website" REF="https://commons.cwrc.ca/orlando:bibliographic-126-drawings"></BIBCIT>
+                                </BIBCITS></P><P>In 1980 ID started <ORGNAME STANDARD="SOLO" REF="https://commons.cwrc.ca/orlando:organization-52-solo">SOLO</ORGNAME>, a company for the <QUOTE DIRECT="Y">production,
                                     scripting and direction of video films,</QUOTE> of which more
                                 than 300 have been produced.
                                     <BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"></BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website" REF="https://commons.cwrc.ca/orlando:bibliographic-132-films"></BIBCIT>
                                     </BIBCITS>
                                  She recieved the <SOCALLED>Silver Lotus</SOCALLED> for
                                     best short film from the President of India, and the Balraj Sahni Award from the <ORGNAME STANDARD="All India Artists Association" REF="https://commons.cwrc.ca/orlando:organization-54-all_india_artists_association">All
                                     India Artists Association</ORGNAME><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Sonwalkar, 'Imtiaz Dharker gets Queen’s
-                                            Gold Medal.'"/>
+                                    <BIBCIT PLACEHOLDER="Sonwalkar, 'Imtiaz Dharker gets Queen’s Gold Medal.'" REF="https://commons.cwrc.ca/orlando:bibliographic-134-pakistanborn_poet_imtiaz_dharker_gets_queens_gold_medal"/>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </DIV2>
@@ -495,7 +494,7 @@
                                     <BIBCIT
                                         REF="https://cwrc.ca/islandora/object/orlando%3Ade17b9a8-ef92-417e-a419-0ee7484f3c6e"
                                         PLACEHOLDER="'Dharker named new Chancellor.' Newcastle University"/>
-                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"/>
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website" REF="https://commons.cwrc.ca/orlando:bibliographic-132-films"/>
                                 </BIBCITS> She continues to contribute to causes through her
                                 artistic pursuits, and is a committed activist against climate
                                 breakdown. In 2015 she contributed to an anthology of poems about
@@ -505,9 +504,9 @@
                                 poets, with other artists and activists, committed to raising their
                                 voices to engage with the climate emergency).<BIBCITS>
                                     <BIBCIT
-                                        PLACEHOLDER="'A climate change poem for today.' The Guardian"/>
+                                        PLACEHOLDER="'A climate change poem for today.' The Guardian" REF="https://commons.cwrc.ca/orlando:bibliographic-137-a_climate_change_poem_for_today_x"/>
                                     <BIBCIT
-                                        PLACEHOLDER="Reid, 'VERSE Aid: Poems for the Earth.'"/>
+                                        PLACEHOLDER="Reed, 'VERSE Aid: Poems for the Earth.'" REF="https://commons.cwrc.ca/orlando:bibliographic-135-verse_aid_poems_for_the_earth__allday_poemathon_8_february_2020__11am_to_6pm"/>
                                     <BIBCIT></BIBCIT>
                                 </BIBCITS></P>
                         </SHORTPROSE>
@@ -537,9 +536,9 @@
                                     >Gillian Clarke</NAME>, are ID's <QUOTE DIRECT="Y">good friends
                                     and collaborators.</QUOTE><BIBCITS>
                                     <BIBCIT
-                                        PLACEHOLDER="MacMillan, 'The shore to shore poetry competition winners'"
+                                        PLACEHOLDER="MacMillan, 'The shore to shore poetry competition winners'" REF="https://commons.cwrc.ca/orlando:bibliographic-127-the_shore_to_shore_poetry_competition_winners"
                                         ></BIBCIT>
-                                    <BIBCIT PLACEHOLDER="Clark"/>
+                                    <BIBCIT PLACEHOLDER="Clark" REF="https://commons.cwrc.ca/orlando:bibliographic-129-no_drugs_on_the_bus_carol_ann_duffy_takes_a_road_trip"/>
                                 </BIBCITS>
                             </P>
                         </SHORTPROSE>
@@ -559,8 +558,7 @@
                                     poetry</QUOTE> until a year later, <PANTHOLOGIZATION>when a
                                     teacher included one of her pieces in the school magazine and
                                     called it a poem.</PANTHOLOGIZATION><BIBCITS>
-                                    <BIBCIT
-                                        PLACEHOLDER="Bowell, 'An Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-107-interview_with_imtiaz_dharker_by_helen_bowell""/>
+                                    <BIBCIT PLACEHOLDER="Bowell, 'An Interview with Imtiaz Dharker.'" REF="https://commons.cwrc.ca/orlando:bibliographic-107-interview_with_imtiaz_dharker_by_helen_bowell"/>
                                 </BIBCITS></P>
                             
                         </SHORTPROSE>
@@ -602,7 +600,7 @@
                                         business of living with everything it has. It speaks with
                                         the body, the rush of blood to the heart and the music of
                                         being human.</PATTITUDES></QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman"/>
+                                    <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Scotsman" REF="https://commons.cwrc.ca/orlando:7d1c3d64-74d8-4f7d-9760-1ec1edb04ce1"/>
                                 </BIBCITS></P></SHORTPROSE></PRODUCTION>
                 </DIV2>
             </DIV1>
@@ -625,7 +623,7 @@
                                         Poems</TITLE>, which displayed one of her own illustrations
                                     on the cover.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF="https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                             </BIBCITS>
                             <SCHOLARNOTE>
                                 <P><FOREIGN LANG="Hindi">Purdah</FOREIGN>, a Hindi word which
@@ -645,13 +643,13 @@
                                     both public and internal</TTHEMETOPIC>, <TTHEMETOPIC>entrapment
                                     and freedom</TTHEMETOPIC>, and the veil which <QUOTE DIRECT="Y"
                                     >seclud[es] women from public observation.</QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Jenkins 121">121</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Jenkins 121" REF="https://commons.cwrc.ca/orlando:bibliographic-130-interculturalism_imtiaz_dharker_patience_agbabi_jackie_kay_and_contemporary_irish_poets">121</BIBCIT>
                                 </BIBCITS>
                                 <QUOTE DIRECT="Y">They have all been sold and bought, / the girls I
                                     knew / unwilling virgins who had been taught</QUOTE> to hide
                                 their brightness, but <QUOTE DIRECT="Y">especially in this
                                     strangers' land.</QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921"/>
+                                    <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921" REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"/>
                                 </BIBCITS> These poems display the tension between veiling and
                                 revealing that accompanied ID in her life as she straddled two
                                 worlds in being a Glaswegian of South Asian heritage. In the poem
@@ -660,7 +658,7 @@
                                 psychological and geographical, the fine margin between
                                     <TTHEMETOPIC>being trapped and being free.</TTHEMETOPIC>
                                 <BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Jenkins 121-2">121-2</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Jenkins 121-2" REF="https://commons.cwrc.ca/orlando:bibliographic-130-interculturalism_imtiaz_dharker_patience_agbabi_jackie_kay_and_contemporary_irish_poets">121-2</BIBCIT>
                                 </BIBCITS>
                             </P>
                         </SHORTPROSE>
@@ -686,7 +684,7 @@
                                     her first volume, <TITLE TITLETYPE="MONOGRAPHIC"
                                     >Purdah</TITLE>.</PEDITIONS></CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF="https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                             </BIBCITS>
                         </CHRONSTRUCT>
                         <SHORTPROSE>
@@ -696,9 +694,8 @@
                                 <ORGNAME STANDARD="Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:2f55e370-3977-4c5d-b417-5c5b371c0584 
                                     ">Bloodaxe</ORGNAME>, who have since published all
                                     her poetry volumes.</PRELATIONSWITHPUBLISHER><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website"/>
-                                    <BIBCIT PLACEHOLDER="‘Listing.’ TLS 4917"
-                                        REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
+                                    <BIBCIT PLACEHOLDER="Imtiaz Dharker Website: Books" REF="https://commons.cwrc.ca/orlando:bibliographic-143-books"/>
+                                    <BIBCIT PLACEHOLDER="‘Listing.’ TLS 4917" REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
                                         >32</BIBCIT>
                                 </BIBCITS>
                             </P>
@@ -717,18 +714,18 @@
                                         /></PLACE></TTHEMETOPIC>. Dharker's <TGENRE
                                     GENRENAME="POLITICALWRITING">overtly political</TGENRE> language
                                 serves to turn her rage outward.<BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'"/>
+                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'" REF=" https://commons.cwrc.ca/orlando:0cfc5037-4ca9-4da7-a13a-8d997f8b608e"/>
                                 </BIBCITS>
                                 <PRARITIESFEATURESDECORATIONS>The accompanying illustrations were
                                     created as <QUOTE>visual rhymes for the poems</QUOTE> to
                                     demonstrate the relationship between words and lines of drawing
                                     as one where the drawings are an extension of the words, rather
                                     than an illustration of them.</PRARITIESFEATURESDECORATIONS><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Chandran 872">872</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Chandran 872" REF="https://commons.cwrc.ca/orlando:bibliographic-131-review_of_postcards_from_god_chandran">872</BIBCIT>
                                 </BIBCITS> They are <QUOTE DIRECT="Y">designed to slow down the pace
                                     of reading, or perhaps to urge us to read the sketches and scan
                                     the poems.</QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Chandran 872">872</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Chandran 872" REF="https://commons.cwrc.ca/orlando:bibliographic-131-review_of_postcards_from_god_chandran">872</BIBCIT>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </TEXTUALFEATURES>
@@ -775,8 +772,7 @@
                                         DIRECT="Y">tightly wrought Muslim sensibility, one that is
                                         further strengthened by her individual Indian woman's point
                                         of view.</QUOTE><BIBCITS>
-                                        <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921"
-                                            REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
+                                        <BIBCIT PLACEHOLDER="'Pearls of Garlic.' TLS 4921" REF="https://cwrc.ca/islandora/object/orlando%3A8b21acfe-c193-4179-ba95-c95ea119281f"
                                         />
                                     </BIBCITS></RRESPONSES></P>
                         </SHORTPROSE>
@@ -811,7 +807,7 @@
                                     strip-tease about what happens when the self <QUOTE DIRECT="N"
                                         >squeezes past the easy cage of bone.</QUOTE></QUOTE>’” <BIBCITS>
                                     <BIBCIT PLACEHOLDER="Haider 247" REF="https://commons.cwrc.ca/orlando:fa91a800-5e75-4445-a2fc-f01f6695e80d">247</BIBCIT>
-                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'"/>
+                                    <BIBCIT PLACEHOLDER="Subramanium, 'Imtiaz Dharker'" REF=" https://commons.cwrc.ca/orlando:0cfc5037-4ca9-4da7-a13a-8d997f8b608e"/>
                                 </BIBCITS> This volume includes the poem <TITLE TITLETYPE="ANALYTIC"
                                     >Honour Killing</TITLE>, about a young woman named <NAME STANDARD="Sarwar, Samia" REF="https://commons.cwrc.ca/orlando:person-102-sarwar_samia">Samia
                                     Sarwar</NAME> who in 1999 was <TMOTIF MOTIFNAME="violence">shot
@@ -849,7 +845,7 @@
                                         Delhi</SETTLEMENT><GEOG REG="India"/></PLACE> in May
                                 2007.</CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF="https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                                 <BIBCIT
                                     PLACEHOLDER="Hindustan Times, 'An evening with a terrorist.'" REF="https://commons.cwrc.ca/orlando:bibliographic-119-an_evening_with_a_terrorist"/>
                             </BIBCITS>
@@ -858,7 +854,7 @@
                             <P><PEDITIONS>The cover of the English edition features ID's drawing of
                                     a female figure whose eyes are all that is visible beneath
                                     loose, enveloping, striped garments.</PEDITIONS><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                    <BIBCIT PLACEHOLDER="Blackwell's" REF="https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </PRODUCTION>
@@ -930,7 +926,7 @@
                                 liminal spaces, <TTHEMETOPIC>surveillance</TTHEMETOPIC>, and
                                     <TTHEMETOPIC>migration</TTHEMETOPIC>.</CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF=" https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                             </BIBCITS>
                         </CHRONSTRUCT>
                         <SHORTPROSE>
@@ -983,7 +979,7 @@
                                 bereavement: her joy in being married to him, and the pain of losing
                                 him to cancer.</CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's"/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF=" https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                             </BIBCITS>
                         </CHRONSTRUCT>
                         <SHORTPROSE>
@@ -1013,7 +1009,7 @@
                                         <QUOTE DIRECT="Y">The loss of a great love makes poems of
                                         piercing beauty</QUOTE> in <QUOTE DIRECT="Y">her finest book
                                         to date.</QUOTE><BIBCITS>
-                                        <BIBCIT PLACEHOLDER="Bloodaxe"/>
+                                        <BIBCIT PLACEHOLDER="Bloodaxe" REF=" https://commons.cwrc.ca/orlando:7136886c-1318-4b80-acc6-b12b9d2227ca"/>
                                         <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' The Poetry Society" REF="https://commons.cwrc.ca/orlando:bibliographic-117-imtiaz_dharker_the_poetry_society" />
                                     </BIBCITS></RRESPONSES></P>
                         </SHORTPROSE>
@@ -1034,7 +1030,7 @@
                                     tree under a full
                                 moon.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Bloodaxe"></BIBCIT>
+                                <BIBCIT PLACEHOLDER="Bloodaxe" REF=" https://commons.cwrc.ca/orlando:7136886c-1318-4b80-acc6-b12b9d2227ca"></BIBCIT>
                             </BIBCITS>
                         </CHRONSTRUCT>
                         <SHORTPROSE>
@@ -1045,7 +1041,7 @@
                                     an influential voice in the South Asian writing
                                     community.</PMATERIALCONDITIONS>
                                 <BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Pinto, 'Imtiaz Unbound.'"/>
+                                    <BIBCIT PLACEHOLDER="Pinto, 'Imtiaz Unbound.'" REF="https://commons.cwrc.ca/orlando:bibliographic-122-imtiaz_unbound"/>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </PRODUCTION>
@@ -1068,7 +1064,7 @@
                                     </SCHOLARNOTE> all these events cast long shadows and raise
                                     questions about who is recording them, about believing, not
                                     believing, wanting to believe.</QUOTE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Bloodaxe"/>
+                                    <BIBCIT PLACEHOLDER="Bloodaxe" REF=" https://commons.cwrc.ca/orlando:7136886c-1318-4b80-acc6-b12b9d2227ca"/>
                                 </BIBCITS>
                                 <TSETTINGDATE SETTINGDATETYPE="PAST">Chance produces incongruous
                                     juxtapositions like an <TTHEMETOPIC>elephant</TTHEMETOPIC> on
@@ -1076,7 +1072,7 @@
                                     in <PLACE><SETTLEMENT>London</SETTLEMENT><REGION REG="Middlesex"
                                             /><GEOG REG="England"/></PLACE> during a
                                     seventeenth-century frost fair.</TSETTINGDATE><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018.'"/>
+                                    <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018.'" REF="https://commons.cwrc.ca/orlando:bibliographic-141-reads_of_the_year_2018_stephanie_green__glasgow_review_of_books"/>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </TEXTUALFEATURES>
@@ -1087,7 +1083,7 @@
                                     ">Stephanie Green</NAME> selected this as her <QUOTE DIRECT="Y"
                                         >stand-out book of poetry this year,</QUOTE> an <QUOTE
                                         DIRECT="Y">excellent, deeply moving collection.</QUOTE><BIBCITS>
-                                        <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018'"/>
+                                        <BIBCIT PLACEHOLDER="Green, 'Reads of the Year 2018'" REF="https://commons.cwrc.ca/orlando:bibliographic-141-reads_of_the_year_2018_stephanie_green__glasgow_review_of_books"/>
                                     </BIBCITS></RRESPONSES></P>
                         </SHORTPROSE>
                     </RECEPTION>
@@ -1105,7 +1101,7 @@
                                     stretches down a long flight of
                                     steps.</PRARITIESFEATURESDECORATIONS></CHRONPROSE>
                             <BIBCITS>
-                                <BIBCIT PLACEHOLDER="Blackwell's" REF=""/>
+                                <BIBCIT PLACEHOLDER="Blackwell's" REF="https://commons.cwrc.ca/orlando:dbf8a78e-850b-43da-a149-5f9df91fe602"/>
                             </BIBCITS>
                         </CHRONSTRUCT>
                     </PRODUCTION>
@@ -1130,8 +1126,7 @@
                                     REF="https://cwrc.ca/islandora/object/orlando:292fb8c6-6c12-4cff-9e16-53d2cec35382"
                                     STANDARD="Shore to Shore Nationwide Poetry Tour">Shore To Shore:
                                     Celebrating Poetry and Community</ORGNAME><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="TLS 5888"
-                                        REF="https://cwrc.ca/islandora/object/orlando%3A3905d60d-18f1-418e-90c1-670c4f2d993e"
+                                    <BIBCIT PLACEHOLDER="TLS 5888" REF="https://cwrc.ca/islandora/object/orlando%3A3905d60d-18f1-418e-90c1-670c4f2d993e"
                                     />
                                 </BIBCITS>
                                 <PPERIODICALPUBLICATION>Her contribution was one of three which the
@@ -1187,8 +1182,8 @@
                                     that <TITLE TITLETYPE="ANALYTIC">The Trick</TITLE> strikes an
                                     elegant balance between emulation and innovation, indebtedness
                                     and resistance, proximity and distance.</RRESPONSES><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="McCulloch, Times Literary Supplement"
-                                        >TLS</BIBCIT>
+                                    <BIBCIT PLACEHOLDER="Crawforth and Scott-Baumann 78" REF="https://cwrc.ca/islandora/object/orlando%3A3aecb1e1-ae9e-4c46-a72f-a70ac166c54c"
+                                        >78</BIBCIT>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </RECEPTION>
@@ -1215,8 +1210,7 @@
                                     <BIBCIT PLACEHOLDER="'Imtiaz Dharker BBC Radio interviews.' Bloodaxe Books" REF="https://commons.cwrc.ca/orlando:bibliographic-97-imtiaz_dharker_bbc_radio_interviews__reviews_for_shadow_reader"/>
                                 </BIBCITS> 
                                   
-                                In 2002 she was invited by the <ORGNAME STANDARD="Wordsworth Trust
-                                        " REF="https://commons.cwrc.ca/orlando:bd88c5be-efa0-4c37-9efe-268760473690 
+                                In 2002 she was invited by the <ORGNAME STANDARD="Wordsworth Trust" REF="https://commons.cwrc.ca/orlando:bd88c5be-efa0-4c37-9efe-268760473690 
                                         ">Wordsworth
                                     Trust</ORGNAME> to read her work with thirty other poets <QUOTE
                                     DIRECT="Y">working at the cutting edge of their art.</QUOTE><BIBCITS>
@@ -1239,7 +1233,7 @@
                                     TITLETYPE="SERIES">Poems on the Underground</TITLE>, and she is
                                 one of three editors of the <TITLE TITLETYPE="SERIES">Poems on the
                                     Underground</TITLE> website. <BIBCITS>
-                                    <BIBCIT PLACEHOLDER="'About us.' Poems on the Underground"/>
+                                    <BIBCIT PLACEHOLDER="'About us.' Poems on the Underground" REF="https://commons.cwrc.ca/orlando:bibliographic-115-about_us_poems_on_the_underground"/>
                                 </BIBCITS></P>
                         </SHORTPROSE>
                     </RECEPTION>
@@ -1251,7 +1245,7 @@
                     <RECEPTION><SHORTPROSE><P>
                         <RRECOGNITIONS>From January to March 2013, ID served as<RRECOGNITIONNAME>Poet in Residence</RRECOGNITIONNAME> at <ORGNAME STANDARD="Cambridge University Library" REF=" https://commons.cwrc.ca/orlando:2ffb460b-1e43-42fe-a2ba-08de9388573e">Cambridge University Library</ORGNAME>, where she contributed to projects spanning multiple art forms in Leeds, Newcastle and Hull as well as work with the Archives of St Paul’s Cathedral.
                         </RRECOGNITIONS><BIBCITS>
-                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' Scottish Poetry Library"></BIBCIT></BIBCITS>
+                            <BIBCIT PLACEHOLDER="'Imtiaz Dharker.' Scottish Poetry Library" REF="https://commons.cwrc.ca/orlando:bibliographic-139-imtiaz_dharker_scottish_poetry_library"></BIBCIT></BIBCITS>
                         
                         
                         <RRECOGNITIONS>In 2014 ID was awarded the
@@ -1279,7 +1273,7 @@
                                             write poems against the demands of a public
                                             role.</PATTITUDES> The poems
                                     won.</QUOTE></RRECOGNITIONS><BIBCITS>
-                                    <BIBCIT PLACEHOLDER="Flood"></BIBCIT></BIBCITS>
+                                    <BIBCIT PLACEHOLDER="Flood" REF="https://commons.cwrc.ca/orlando:4f3ee4f1-c802-43b2-981a-025795e46d8e"></BIBCIT></BIBCITS>
                                         <RRECOGNITIONS>
                                             In 2020 ID was named <RRECOGNITIONNAME>Chancellor</RRECOGNITIONNAME>of <ORGNAME STANDARD="Newcastle University" REF="https://commons.cwrc.ca/orlando:organization-58-newcastle_university">Newcastle University</ORGNAME>.
                                         </RRECOGNITIONS>In inviting her to become Chancellor, ID states that <QUOTE DIRECT="Y">Newcastle University has reconfirmed that it places poetry at the heart of its great, pulsing activity, and this delights me more than I can say</QUOTE>
@@ -1311,8 +1305,8 @@
             <SOURCE>Poets for the Planet, https://poetsfortheplanet.org.uk/, accessed 4 March 2024</SOURCE>
             <SOURCE>Prabook, https://prabook.com/web/imtiaz.dharker/3749973, accessed 1 March 2024</SOURCE>
             <SOURCE>Prasun Sonwalkar, "Pakistan-born poet Imtiaz Dharker gets Queen’s
-                Gold Medal", Hindustan Times (19 December 2014, accessed 2 March 2024</SOURCE>
-            <SOURCE>C. P. Surendran, "Obituary: Anil Dharker (1947-2021", Hindustan Times, 26 March 2021</SOURCE>
+                Gold Medal", Hindustan Times (19 December 2014, accessed 2 March 2024)</SOURCE>
+            <SOURCE>C. P. Surendran, "Obituary: Anil Dharker (1947-2021", Hindustan Times, 26 March 2021)</SOURCE>
             <SOURCE>TLS, various pages online</SOURCE></WORKSCITED>
     </DIV0>
 </ENTRY>
